@@ -1,6 +1,6 @@
 ---
 title: "Short Bio"
-permalink: "/about/"
+permalink: "/"
 layout: page
 ---
 
