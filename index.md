@@ -5,4 +5,7 @@ layout: page
 ---
 
 ### News
-Hello!
+* I started January 1, 2022 as Marie Curie Fellow at TUM and Technion
+
+### Students
+I am currently looking for students.
