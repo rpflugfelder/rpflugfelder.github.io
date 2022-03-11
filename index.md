@@ -10,4 +10,4 @@ layout: page
 ### Students
 I am currently looking for students.
 
-![me](passfoto_pflugfelder.png)
+![me](passfoto_pflugfelder.png = 100x)
