@@ -9,3 +9,5 @@ layout: page
 
 ### Students
 I am currently looking for students.
+
+![me](passfoto_pflugfelder.png)
