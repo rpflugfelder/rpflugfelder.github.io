@@ -1,6 +1,9 @@
 title: "Roman P. Pflugfelder"
 author: "Roman Pflugfelder"
-description: "<a href=\"https://dvl.in.tum.de\">TUM</a>"
+description: "<a href=\"https://dvl.in.tum.de\">TUM</a>,
+<a href=\"https://mic.net.technion.ac.il/team/">Technion</a>,
+<a href=\"https://cvl.tuwien.ac.at/staff/roman-pflugfelder\">TU Wien</a>,
+<a href=\"https://www.ait.ac.at/ueber-das-ait/researcher-profiles?tx_aitprofile_pi1%5Bname%5D=Pflugfelder%20Roman&cHash=26274569b0cbd5c6f5bfec8904e35664\">AIT</a>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
