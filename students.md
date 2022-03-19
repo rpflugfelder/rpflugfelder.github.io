@@ -4,9 +4,6 @@ permalink: "/"
 layout: page
 ---
 
-### News
-* I started January 1, 2022 as Marie Curie Fellow at TUM and Technion
-
 ### Students
 I am looking for students interested in visual recognition, motion analysis, object tracking and visual learning. You are interested? Then please [contact me](mailto:roman.pflugfelder@tum.de)!
 * Available master thesis on [Vehicle Detection in a Sequence of SAT images](https://cvl.tuwien.ac.at/teaching/diplomarbeiten/vehicle-detection-in-a-sequence-of-satellite-images/)
