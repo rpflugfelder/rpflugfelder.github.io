@@ -26,4 +26,4 @@ I am currently looking for students.
 * [Timo Kropp](https://www.linkedin.com/in/timo-kropp-6a9567123/?originalSubdomain=de), Matching Omnidirectional Images in Indoor Environments, [Master's thesis](https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/kropp-diplomarbeit2013.pdf), 2013
 * [Georg Nebehay](https://www.linkedin.com/in/georg-nebehay-408960142/?originalSubdomain=ch), Robust Object Tracking Based on Tracking-Learning-Detection, [Master's thesis](https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/thesis.pdf), 2012
 * Michael Boula, Time sync. of networked cameras with non- overlapping views using TTA, [Bachelor's thesis](https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/Boula-Bachelorarbeit.pdf), 2011
-* Timo Kropp, Visualiserung von Trajektorien live in Microsoft Bing Maps, [Bachelor's thesis](https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/Kropp-BachelorThesis.pdf), 2009
+* [Timo Kropp](https://www.linkedin.com/in/timo-kropp-6a9567123/?originalSubdomain=de), Visualiserung von Trajektorien live in Microsoft Bing Maps, [Bachelor's thesis](https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/Kropp-BachelorThesis.pdf), 2009
