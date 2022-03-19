@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: "/students"
+permalink: "/students/"
 layout: page
 ---
 
