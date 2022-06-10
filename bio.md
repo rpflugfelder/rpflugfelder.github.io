@@ -5,8 +5,7 @@ layout: page
 ---
 
 I am a Marie Curie fellow in the [Department of Informatics](https://www.in.tum.de/en/) at the University of Munich. I am member of the [Dynamic Vision and Learning Group](https://dvl.in.tum.de) at the [Chair of Computer Vision and Artificial Intelligence](https://cvai.in.tum.de).
-
-I am also a fellow in the [Department of Computer Science](https://www.cs.technion.ac.il) at the Technion, Israel, where I am a member of [Michael Lindenbaum's Group](https://mic.net.technion.ac.il).
+I am also a fellow in the [Department of Computer Science](https://www.cs.technion.ac.il) at the Technion, Israel, where I am a member of [Michael Lindenbaum's Group](https://mic.net.technion.ac.il). I am supported by the [EuroTech PostDoc2 Programme](https://postdoc2.eurotech-universities.eu/our-fellows-2/) of the EuroTech Universities.
 
 I am Scientist at the [AIT Austrian Institute of Technology](https://www.ait.ac.at) where I am currently on leave.
 
