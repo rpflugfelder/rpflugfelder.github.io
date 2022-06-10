@@ -7,6 +7,10 @@ layout: page
 I am looking for students interested in visual recognition, motion analysis, object tracking and visual learning. You are interested? Then please [contact me](mailto:roman.pflugfelder@tum.de)!
 * Available master thesis on [Vehicle Detection in a Sequence of SAT images](https://cvl.tuwien.ac.at/teaching/diplomarbeiten/vehicle-detection-in-a-sequence-of-satellite-images/)
 
+### My Current Students
+* Marian Loser, TUM, Master's thesis
+* Fabian Dachs, TU Wien, Master's thesis
+
 ### My Past Students
 * [Jonas Auer](https://repositum.tuwien.at/bitstream/20.500.12708/19637/1/Auer%20Jonas%20-%202022%20-%20Robust%20Object%20Localization%20under%20Fragmented%20Occlusion.pdf), Robust Object Localisation under Fragmented Occlusion, [Master's thesis](https://repositum.tuwien.at/bitstream/20.500.12708/19637/1/Auer%20Jonas%20-%202022%20-%20Robust%20Object%20Localization%20under%20Fragmented%20Occlusion.pdf), 2022 
 * Èric Quintana Aguasca, Tracking by Detection Using Yolo and a Kalman Filter, [Bachelor's thesis](https://upcommons.upc.edu/bitstream/handle/2117/357892/Final_Thesis_TrackingByDetection_Quintana_Aguasca.pdf?sequence=2&isAllowed=y), 2021 - Erasmus cooperation with [Xavier Giro](https://imatge.upc.edu/web/people/xavier-giro), UPC Barcelona
