@@ -11,4 +11,4 @@ I am lecturer in the [Faculty of Informatics](https://informatics.tuwien.ac.at) 
 
 I am Scientist at the [AIT Austrian Institute of Technology](https://www.ait.ac.at) where I am currently on leave.
 
-I received in 2002 a MSc degree in Informatics at the TU Wien. In 2001, I spent one year as a Kurt Goedel scholarship holder at the Queensland University of Technology, Australia. I received in 2008 a PhD in Telematics at the TU Graz, Austria.
+I received in 2002 a MSc degree in Informatics at the TU Wien. In 2001, I spent one year as a [Kurt Goedel scholarship holder](https://kgs.logic.at) at the Queensland University of Technology, Australia. I received in 2008 a PhD in Telematics at the TU Graz, Austria.
