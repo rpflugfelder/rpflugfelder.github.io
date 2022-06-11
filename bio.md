@@ -13,4 +13,4 @@ I am Scientist at the [AIT Austrian Institute of Technology](https://www.ait.ac.
 
 I received in 2002 a MSc degree in Informatics at the TU Wien. In 2001, I spent one year with a [Kurt Goedel stipend](https://kgs.logic.at) at the Queensland University of Technology, Australia. I received in 2008 a PhD in Telematics at the TU Graz, Austria.
 
-Please, see my [CV](cv-pflugfelder) for more details.
+Please, see my [CV](sci-cv-pflugfelder.pdf) for more details.
