@@ -1,6 +1,6 @@
 ---
 title: "Students"
-permalink: "/_theses/"
+permalink: "/theses/"
 layout: page
 ---
 
