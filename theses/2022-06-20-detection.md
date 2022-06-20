@@ -1,6 +1,6 @@
 ---
 title: "Deep Vehicle Detecion in Satellite Video"
-layout: default
+layout: page
 ---
 
 # Problem Statement
