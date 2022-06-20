@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 {%- assign posts = paginator.posts | default: site.posts -%}
