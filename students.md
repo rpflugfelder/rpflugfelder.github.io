@@ -4,7 +4,7 @@ layout: page
 ---
 
 I am looking for students interested in visual recognition, motion analysis, object tracking and visual learning. You are interested? Then please [contact me](mailto:roman.pflugfelder@tum.de)!
-* Available master thesis on [Vehicle Detection in a Sequence of SAT images](publications.md)
+* Available master thesis on [Vehicle Detection in a Sequence of SAT images](thesis.md)
 
 ### My Current Students
 * Marian Loser, TUM, Master's thesis
