@@ -1,3 +1,8 @@
+---
+title: "Deep Vehicle Detecion in Satellite Video"
+layout: page
+---
+
 # Problem Statement
 <a href="https://arxiv.org/abs/1506.01497">Object detection</a> is a very important and still unsolved problem in object recognition. For example, the problem becomes challenging in aerial imaging and remote sensing as the scenes and the data differ significantly from the case usually considered in computer vision.
 
