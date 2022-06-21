@@ -16,13 +16,14 @@ This thesis offers the opportunity to develop a vehicle detector based on short 
 Remote vehicle detection has potential to innovate traffic monitoring and traffic prediction models which are today essential for autonomous driving and smart cities.
 
 # Goal
-Given our <a href="https://arxiv.org/abs/2001.10900">previous work</a> on satellite video, research a new approach for vehicle detection with the All-Frames sequences of SkySat satellite images. Understand the use of spatiotemporal (recurrent), neural networks and associative memories and compare their differences for the given task. Study the potential impact of this new sensor modality. Participate with our international research team (<a href="https://www.iarai.ac.at/traffic4cast/">IARAI</a>, <a href="https://philab.phi.esa.int">ESA Phi Lab</a>, <a href="http://www.planet.com">Planet</a>).
+Given our [previous work](https://arxiv.org/abs/2204.06828) on satellite video, the thesis aims at a new approach for vehicle detection with the All-Frames images of SkySat. Starting with the existing encoder-decoder network, a new generative network should be designed for the new data. The network should allow the visualisation of features in the encoder to better understand the generalisation process. The aim of the thesis is to develop a self-supervised or unsupervised learning method.
+
 
 # Requirements
 * Basic knowledge in computer vision or computer graphics
 * Basic experience in C++, Python, Julia
 * Interest in machine learning, maths, statistics
-* Interest in collaborating internationally with others
+* Interest in collaborating internationally with other partners ([IARAI](https://www.iarai.ac.at/traffic4cast/), [Planet](http://www.planet.com), [ESA](https://philab.phi.esa.int))
 
 # Workflow
 ## TUM
