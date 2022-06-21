@@ -16,4 +16,3 @@ A [list and ranking](https://scholar.google.com/citations?view_op=top_venues&amp
 ### News
 * I started January 1, 2022 my new position as a Marie Curie Fellow at the Technical University of Munich (TUM) and the Technion
 
-![Julia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png)
