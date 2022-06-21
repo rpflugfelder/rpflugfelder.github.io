@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Open Thesis Topics
 ---
 
 {% if site.show_excerpts %}
