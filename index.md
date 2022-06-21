@@ -4,6 +4,8 @@ permalink: "/"
 layout: page
 ---
 
+A [list and ranking](https://scholar.google.com/citations?view_op=top_venues&amp;hl=en&amp;vq=eng_computervisionpatternrecognition) of computer vision journals and conferences.
+
 ### I am serving 2022 as
 * reviewer of [NeurIPS](https://neurips.cc)
 * co-organiser of the [VOT'22 challenges](https://www.votchallenge.net/vot2022/) and [ECCV'22 workshop](https://eccv2022.ecva.net)
@@ -12,3 +14,4 @@ layout: page
 
 ### News
 * I started January 1, 2022 my new position as a Marie Curie Fellow at the Technical University of Munich (TUM) and the Technion
+
