@@ -10,7 +10,7 @@ Occlusion is a substantial problem in object recognition. A special type of occl
 Interestingly, [human vision](https://doi.org/10.1177%2F20416695211062625) is able to spatiotemporally analyse such fragmental, visual percepts and allows accurate object recognition even for very challenging scenes such as to recognise a moving object of interest behind a fence.
 
 # Goal
-The thesis aims at the idea to learn a neural function of deocclusion by an encoder-decoder archiecture in spirit similar to a denoising autoencoder. The candidate is asked to investigate avenues of unsupervised learning by using examples with synthetic occlusion.
+The thesis aims at the idea to learn a neural function of deocclusion by an encoder-decoder archiecture in spirit similar to a [denoising autoencoder](https://www.deeplearningbook.org/contents/autoencoders.html). The candidate is asked to investigate avenues of unsupervised learning by using examples with synthetic occlusion.
 
 ![architecture](/assets/images/test.png)
 
