@@ -18,12 +18,17 @@ Remote vehicle detection has potential to innovate traffic monitoring and traffi
 # Goal
 Given our <a href="https://arxiv.org/abs/2001.10900">previous work</a> on satellite video, research a new approach for vehicle detection with the All-Frames sequences of SkySat satellite images. Understand the use of spatiotemporal (recurrent), neural networks and associative memories and compare their differences for the given task. Study the potential impact of this new sensor modality. Participate with our international research team (<a href="https://www.iarai.ac.at/traffic4cast/">IARAI</a>, <a href="https://philab.phi.esa.int">ESA Phi Lab</a>, <a href="http://www.planet.com">Planet</a>).
 
-# Workflow
-The thesis can be combined with an Informatik Praktika. Please, do not forget to attend the mandatory <a href="https://cvl.tuwien.ac.at/teaching/diplomarbeiten/allgemeine-hinweise-zu-masterarbeiten/">courses</a> (as well for the <a href="https://cvl.tuwien.ac.at/teaching/informatik-praktika/allgemeine-hinweise-zu-bachelorarbeiten-und-praktikas/">Praktika</a>). You will write a thesis proposal at the beginning where you are welcome to formulate your own research ideas in agreement with the supervisor.
-<h3>Requirements</h3>
+# Requirements
 <ul>
  	<li>Basic knowledge in computer vision or computer graphics (e.g. Master Programmes Visual Computing, Data Science)</li>
  	<li>Basic experience in C++, Python, Julia</li>
  	<li>Interest in machine learning, maths, statistics</li>
  	<li>Interest in collaborating internationally with others</li>
 </ul>
+
+# Workflow
+## TUM
+Detailed information can be found [here](https://www.in.tum.de/in/fuer-studierende/master-studiengaenge/informatik/abschlussarbeit/).
+
+## TU Wien
+You should be enrolled in the Master Programmes Visual Computing or Data Science. The thesis can be combined with an Informatik Praktika. Please, do not forget to attend the mandatory [courses](https://cvl.tuwien.ac.at/teaching/diplomarbeiten/allgemeine-hinweise-zu-masterarbeiten) (as well for the [Praktika](https://cvl.tuwien.ac.at/teaching/informatik-praktika/allgemeine-hinweise-zu-bachelorarbeiten-und-praktikas)). You will write a thesis proposal at the beginning where you are welcome to formulate your own research ideas in agreement with the supervisor.
