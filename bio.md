@@ -13,6 +13,8 @@ I am Scientist at the [AIT Austrian Institute of Technology](https://www.ait.ac.
 
 I received in 2002 a MSc degree in Informatics at the TU Wien. In 2001, I spent one year with a [Kurt Goedel stipend](https://kgs.logic.at) at the Queensland University of Technology, Australia. I received in 2008 a PhD in Telematics at the TU Graz, Austria.
 
+I was awarded in 2008 with a Viennese WWTF Career Grant. I received in 2014 the WACV Best Paper Award and in 2019 the CVPR Outstanding Reviewer award.
+
 In my free time I like to walk, hike, swim and ride my bike.
 
 Please, see my [CV](assets/docs/sci-cv-pflugfelder.pdf) for more details.
