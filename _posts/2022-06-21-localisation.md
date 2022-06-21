@@ -5,7 +5,7 @@ layout: post
 ---
 
 # Problem Statement
-Localising objects under fragmented occlusion is an important pre-requisite for through-foliage detection in forests. Unfortunately, state-of-the-art detectors fail to accurately localise objects under this type of occlusion.
+Localising objects under [fragmented occlusion](https://doi.org/10.1006/cviu.1996.0006) is an important pre-requisite for [through-foliage detection](https://link.springer.com/chapter/10.1007/978-3-030-69460-9_16) in forests. Unfortunately, [state-of-the-art detectors fail](https://www.doi.org/10.3217/978-3-85125-752-6-23) to accurately localise objects under this type of occlusion.
 
 Interestingly, human vision seems to overcome fragmented occlusion seemlessly by integrating partial, visual percepts over time. 
 
