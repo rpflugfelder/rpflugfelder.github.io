@@ -17,6 +17,7 @@ In my free time I like to walk, hike, swim and ride my bike.
 
 Please, see my [CV](assets/docs/sci-cv-pflugfelder.pdf) for more details.
 
-
+  
+  
 I am programming in  
 ![Julia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png)
