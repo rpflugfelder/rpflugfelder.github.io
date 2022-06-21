@@ -1,5 +1,5 @@
 ---
-title: "Deep Vehicle Detecion in Satellite Video"
+title: "Deep Vehicle Detection in Satellite Video"
 categories: thesis
 layout: post
 ---
