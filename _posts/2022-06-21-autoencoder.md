@@ -5,6 +5,7 @@ layout: post
 ---
 
 # Problem Statement
+![architecture](test.pdf)
 
 # Goal
 
