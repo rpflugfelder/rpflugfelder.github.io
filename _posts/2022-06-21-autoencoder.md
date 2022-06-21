@@ -5,7 +5,7 @@ layout: post
 ---
 
 # Problem Statement
-![architecture](test.pdf)
+![architecture](test.png)
 
 # Goal
 
