@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I am serving 2022 as
+categories: community
 ---
 
 * reviewer of [AVSS](http://atvs.ii.uam.es/avss2022/index.html)
