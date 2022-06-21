@@ -5,19 +5,16 @@ layout: post
 ---
 
 # Problem Statement
-<a href="https://arxiv.org/abs/1506.01497">Object detection</a> is a very important and still unsolved problem in object recognition. For example, the problem becomes challenging in aerial imaging and remote sensing as the scenes and the data differ significantly from the case usually considered in computer vision.
-
-The aim of this thesis is to study vehicle detection for a new sensor modality. Vehicles in satellite images are tiny (4-10 pixel), the recognition of vehicles is challenging as seen in the following image cropped from the original satellite image.
+[Object detection](https://arxiv.org/abs/1506.01497) is a very important and still unsolved problem in object recognition. For example, the problem becomes challenging in aerial imaging and remote sensing as the scenes and the data differ significantly from the case usually considered in computer vision. Vehicles in satellite images are tiny (4-10 pixel), the recognition of vehicles is challenging as seen in the following image cropped from a high-resolution satellite image.
 
 ![Deli](/assets/images/deli.png)
 
-This thesis offers the opportunity to develop a vehicle detector based on short <a href="https://assets.planet.com/docs/Planet_Basic_L1A_All-Frames_User_Guide.pdf">sequences of satellite images</a>  which are taken by Planet's <a href="https://earth.esa.int/eogateway/missions/skysat">SkySat</a> constellation. Motion can be an important cue to detect tiny objects.
-
-Remote vehicle detection has potential to innovate traffic monitoring and traffic prediction models which are today essential for autonomous driving and smart cities.
+Motion can be an important cue to detect tiny objects. Remote vehicle detection has potential to innovate traffic monitoring and traffic prediction models which are today essential for autonomous driving and smart cities.
 
 # Goal
-Given our [previous work](https://arxiv.org/abs/2204.06828) on satellite video, the thesis aims at a new approach for vehicle detection with the All-Frames images of SkySat. Starting with the existing encoder-decoder network, a new generative network should be designed for the new data. The network should allow the visualisation of features in the encoder to better understand the generalisation process. The aim of the thesis is to develop a self-supervised or unsupervised learning method.
+Given our [previous work](https://arxiv.org/abs/2204.06828) on satellite video, the aim of this thesis is to study vehicle detection for a new sensor modality. This thesis offers the opportunity to develop a vehicle detector based on short sequences of [All-Frames images](https://assets.planet.com/docs/Planet_Basic_L1A_All-Frames_User_Guide.pdf) which are taken by Planet's [SkySat](https://earth.esa.int/eogateway/missions/skysat) constellation.
 
+Starting with the existing encoder-decoder network, a new generative network should be designed for the new data. The network should allow the visualisation of features in the encoder to better understand the generalisation process. The aim of the thesis is to develop a self-supervised or unsupervised learning method.
 
 # Requirements
 * Basic knowledge in computer vision or computer graphics
