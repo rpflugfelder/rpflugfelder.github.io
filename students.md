@@ -3,7 +3,9 @@ title: "Students"
 layout: page
 ---
 
-I supervise students in visual recognition, motion analysis, object tracking and visual learning. You are looking for a [topic](thesis.md) and you are interested? Then, please [contact me](mailto:roman.pflugfelder@tum.de)!
+I supervise students in visual recognition, motion analysis, object tracking and visual learning.
+
+You are looking for a [topic](thesis.md) and you are interested? Then, please [contact me](mailto:roman.pflugfelder@tum.de)!
 
 ### My Current Students
 * Marian Loser, TUM, Master's thesis
