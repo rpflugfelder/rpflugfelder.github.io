@@ -19,12 +19,10 @@ Remote vehicle detection has potential to innovate traffic monitoring and traffi
 Given our <a href="https://arxiv.org/abs/2001.10900">previous work</a> on satellite video, research a new approach for vehicle detection with the All-Frames sequences of SkySat satellite images. Understand the use of spatiotemporal (recurrent), neural networks and associative memories and compare their differences for the given task. Study the potential impact of this new sensor modality. Participate with our international research team (<a href="https://www.iarai.ac.at/traffic4cast/">IARAI</a>, <a href="https://philab.phi.esa.int">ESA Phi Lab</a>, <a href="http://www.planet.com">Planet</a>).
 
 # Requirements
-<ul>
- 	<li>Basic knowledge in computer vision or computer graphics (e.g. Master Programmes Visual Computing, Data Science)</li>
- 	<li>Basic experience in C++, Python, Julia</li>
- 	<li>Interest in machine learning, maths, statistics</li>
- 	<li>Interest in collaborating internationally with others</li>
-</ul>
+* Basic knowledge in computer vision or computer graphics
+* Basic experience in C++, Python, Julia
+* Interest in machine learning, maths, statistics
+* Interest in collaborating internationally with others
 
 # Workflow
 ## TUM
