@@ -8,6 +8,7 @@ layout: post
 
 # Goal
 
+![Localisaion](/assets/images/loc.png)
 
 # Requirements
 * Basic knowledge in computer vision or computer graphics
