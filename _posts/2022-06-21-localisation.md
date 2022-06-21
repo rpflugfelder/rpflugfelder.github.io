@@ -10,7 +10,7 @@ Localising objects under [fragmented occlusion](https://doi.org/10.1006/cviu.199
 Interestingly, [human vision](https://doi.org/10.1177%2F20416695211062625) seems to overcome fragmented occlusion seemlessly by integrating partial, visual percepts over time. 
 
 # Goal
-The thesis builds on previous work based on an encoder-decoder network and aims at open questions to be answered such as:
+The thesis builds on [previous work](https://doi.org/10.1109/AVSS52988.2021.9663791) based on an encoder-decoder network and aims at open questions to be answered such as:
 * how to improve the method to generalise to empty scenes and to scenes with more than one person,
 * why does the network generalise to occluded sequences from unoccluded training data,
 * how to adapt the encoder to allow visualisation of the features
