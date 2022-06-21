@@ -11,7 +11,7 @@ Interestingly, [human vision](https://doi.org/10.1177%2F20416695211062625) seems
 
 # Goal
 
-![Localisaion](/assets/images/loc.png)
+![Localisaion](/assets/images/localisation.png)
 
 # Requirements
 * Basic knowledge in computer vision or computer graphics
