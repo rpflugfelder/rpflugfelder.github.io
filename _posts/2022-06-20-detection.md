@@ -13,8 +13,6 @@ The aim of this thesis is to study vehicle detection for a new sensor modality. 
 
 This thesis offers the opportunity to develop a vehicle detector based on short <a href="https://assets.planet.com/docs/Planet_Basic_L1A_All-Frames_User_Guide.pdf">sequences of satellite images</a>  which are taken by Planet's <a href="https://earth.esa.int/eogateway/missions/skysat">SkySat</a> constellation. Motion can be an important cue to detect tiny objects.
 
-[video width="320" height="180" mp4="https://cvl.tuwien.ac.at/wp-content/uploads/2022/03/new-deli-small.mp4" loop="true" autoplay="true"][/video]
-
 Remote vehicle detection has potential to innovate traffic monitoring and traffic prediction models which are today essential for autonomous driving and smart cities.
 
 # Goal
