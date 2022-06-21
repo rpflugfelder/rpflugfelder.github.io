@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% if site.show_excerpts %}
+
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
 {% if post.categories contains 'thesis' %}
@@ -20,3 +22,9 @@ layout: default
     {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">older posts »</a>{% else %}<span></span>{% endif %}
   </footer>
 {% endif %}
+
+
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %} )
+
