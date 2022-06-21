@@ -9,9 +9,10 @@ Occlusion is a substantial problem in object recognition. A special type of occl
 
 Interestingly, human vision is able to spatiotemporally analyse such fragmental, visual percepts and allows accurate object recognition even for very challenging scenes such as to recognise a moving object of inerest behind a fence.
 
+# Goal
+
 ![architecture](test.png)
 
-# Goal
 
 # Workflow
 The thesis can be combined with an Informatik Praktika. Please, do not forget to attend the mandatory <a href="https://cvl.tuwien.ac.at/teaching/diplomarbeiten/allgemeine-hinweise-zu-masterarbeiten/">courses</a> (as well for the <a href="https://cvl.tuwien.ac.at/teaching/informatik-praktika/allgemeine-hinweise-zu-bachelorarbeiten-und-praktikas/">Praktika</a>). You will write a thesis proposal at the beginning where you are welcome to formulate your own research ideas in agreement with the supervisor.
