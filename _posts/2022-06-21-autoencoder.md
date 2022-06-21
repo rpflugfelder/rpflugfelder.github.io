@@ -11,8 +11,7 @@ Interestingly, human vision is able to spatiotemporally analyse such fragmental,
 
 # Goal
 
-{% include autoencoder.html%}
-![architecture](test.png)
+![architecture](/assets/images/test.png)
 
 
 # Workflow
