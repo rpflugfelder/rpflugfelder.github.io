@@ -5,6 +5,10 @@ layout: post
 ---
 
 # Problem Statement
+Occlusion is a substantial problem in object recognition. A special type of occlusion is fragmented occlusion where only small and always different parts of the object are visible at a time.
+
+Interestingly, human vision is able to spatiotemporally analyse such fragmental, visual percepts and allows accurate object recognition even for very challenging scenes such as to recognise a moving object of inerest behind a fence.
+
 ![architecture](test.png)
 
 # Goal
