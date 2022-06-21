@@ -18,7 +18,6 @@ The thesis aims at the idea to learn a neural function of deocclusion by an enco
 * Basic knowledge in computer vision or computer graphics (e.g. Master Programmes Visual Computing, Data Science)
 * Basic experience in C++, Python, Julia
 * Interest in machine learning, maths, statistics
-* Interest in collaborating internationally with others
 
 # Workflow
 ## TUM
