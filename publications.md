@@ -8,4 +8,4 @@ A [list and ranking](https://scholar.google.com/citations?view_op=top_venues&amp
 {% include publications.html %}
 
 ***
-The summary of publications is found in my [publication list](/assets/mybib.pdf).
+The summary of publications is found in my [publication list](/assets/docs/mybib.pdf).
