@@ -9,7 +9,9 @@ You are looking for a [topic](thesis.html) and you are interested? Then, please 
 
 ### My Current Students
 * Marian Loser, TUM, Master's thesis
+* Ada Fok, TUM, Guided Research
 * Fabian Dachs, TU Wien, Master's thesis
+
 
 ### My Past Students
 * [Jonas Auer](https://repositum.tuwien.at/bitstream/20.500.12708/19637/1/Auer%20Jonas%20-%202022%20-%20Robust%20Object%20Localization%20under%20Fragmented%20Occlusion.pdf), Robust Object Localisation under Fragmented Occlusion, [Master's thesis](https://repositum.tuwien.at/bitstream/20.500.12708/19637/1/Auer%20Jonas%20-%202022%20-%20Robust%20Object%20Localization%20under%20Fragmented%20Occlusion.pdf), 2022 
