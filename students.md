@@ -9,7 +9,7 @@ You are looking for a [topic](thesis.html) and you are interested? Then, please 
 
 ### My Current Students
 * Marian Loser, TUM, Master's thesis
-* Ada Fok, TUM, Guided Research
+* Ada Fok, TUM, Guided Research on "Vehicle Detection in a Sequence of Satellite Images"
 * Fabian Dachs, TU Wien, Master's thesis
 
 
