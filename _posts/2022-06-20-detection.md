@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Detection in a Sequence of Satellite Images"
+title: "Vehicle Detection in a Sequence of Satellite Images (Topic is Taken)"
 categories: thesis
 layout: post
 ---
