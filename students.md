@@ -8,7 +8,7 @@ I supervise students in visual recognition, motion analysis, object tracking and
 You are looking for a [topic](thesis.html) and you are interested? Then, please [contact me](mailto:roman.pflugfelder@tum.de)!
 
 ### My Current Students
-* Marian Loser, TUM, Master's thesis
+* Marian Loser, TUM, Master's thesis on _Video Deocclusion_
 * Ada Fok, TUM, Guided Research on _Vehicle Detection in a Sequence of Satellite Images_
 * Fabian Dachs, TU Wien, Master's thesis
 
