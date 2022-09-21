@@ -14,6 +14,10 @@ The thesis aims at the idea to learn a neural function of deocclusion by an enco
 
 ![architecture](/assets/images/test.png)
 
+The interested candidate is also encouraged to work with event data from a [neuromorphic camera](https://inivation.com) inspired by [recent research](https://scholar.google.at/scholar?cites=5205630784265455546&as_sdt=2005&sciodt=0,5).
+
+![events](/assets/images/event.mp4)
+
 # Requirements
 * Basic knowledge in computer vision or computer graphics
 * Basic experience in C++, Python, Julia
