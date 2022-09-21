@@ -18,6 +18,7 @@ The interested candidate is also encouraged to work with event data from a [neur
 
 <p align="center">
   <img alt="event" src="/assets/images/event.jpg" width="202">
+  &nbsp;
   <video controls autoplay loop>
     <source type="video/mp4" src="/assets/images/events.mp4" />
   </video>
