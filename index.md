@@ -16,7 +16,7 @@ I received in 2002 a MSc degree in Informatics at the TU Wien. In 2001, I spent 
 
 I was awarded in 2008 with a Viennese [WWTF](https://www.wwtf.at/index.php?lang=EN) Career Grant. I received in 2014 the IEEE/CvF WACV Best Paper Award and in 2019 the CVPR Outstanding Reviewer award.
 
-Between 2008-2015 I built a team of six scientific researchers as project manager. Technologies such as the [CMT](https://www.gnebehay.com/cmt/) tracker or the [indoor localisation](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) were successfully used by companies. I am IPMA Level D certified.
+Between 2008-2015 I built a team of six scientific researchers as project manager. Technologies such as the [CMT](https://www.gnebehay.com/cmt/) tracker or the indoor localisation of our [surveillance camera calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) were successfully used by companies. I am IPMA Level D certified.
 
 In my free time I like to walk, hike, swim and ride my bike.
 
