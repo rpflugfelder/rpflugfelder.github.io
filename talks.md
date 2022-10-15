@@ -3,6 +3,7 @@ layout: page
 title: "Invited Talks & Lectures"
 ---
 
+* [Fragmented Occlusion in Computer Vision](https://www.youtube.com/watch?v=1d_O443FdlA), &Ouml;FAI, Vienna, 2022
 * [The importance of motion perception in visual recognition](https://www.iarai.ac.at/events/the-importance-of-motion-perception-in-visual-recognition/), IARAI, Vienna, August, 2021
 * Learning Visual Perception for Autonomous Systems, Linköping University, Sweden, June, 2021
   
