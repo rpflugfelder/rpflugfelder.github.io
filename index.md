@@ -3,7 +3,7 @@ title: ""
 permalink: "/"
 layout: page
 ---
-![Me](assets/images/pflugfelder-2.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Me](assets/images/pflugfelder-3.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 I am a Marie Curie fellow in the [Department of Informatics](https://www.in.tum.de/en/) at the University of Munich. I am member of the [Dynamic Vision and Learning Group](https://dvl.in.tum.de) at the [Chair of Computer Vision and Artificial Intelligence](https://cvai.in.tum.de).
 I am also a fellow in the [Department of Computer Science](https://www.cs.technion.ac.il) at the Technion, Israel, where I am a member of [Michael Lindenbaum's Group](https://mic.net.technion.ac.il). I am supported by the [EuroTech PostDoc2 Programme](https://postdoc2.eurotech-universities.eu/our-fellows-2/) of the EuroTech Universities.
