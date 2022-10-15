@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Invited Talks"
+title: "Invited Talks & Lectures"
 ---
-  
+
+
   
   <!---
   <h3>Invited Talks &amp; Lectures (recently)</h3>
