@@ -3,6 +3,8 @@ layout: page
 title: "Invited Talks"
 ---
   
+  
+  <!---
   <h3>Invited Talks &amp; Lectures (recently)</h3>
 <ul>
  	<li><a href="https://www.iarai.ac.at/events/the-importance-of-motion-perception-in-visual-recognition/">The importance of motion perception in visual recognition</a>, IARAI, Vienna, August, 2021</li>
@@ -19,3 +21,4 @@ title: "Invited Talks"
  	<li>Video Analyse und 3D Sensoren, Siemens, Vienna, April, 2018</li>
  	<li>Visual single and general object tracking: Where are we today?, Embedded Computer Vision Workshop, Boston, US, June, 2015</li>
 </ul>
+--->
