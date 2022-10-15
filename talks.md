@@ -1,4 +1,6 @@
 ---
+layout: page
+title: "Invited Talks"
 ---
   
   <h3>Invited Talks &amp; Lectures (recently)</h3>
