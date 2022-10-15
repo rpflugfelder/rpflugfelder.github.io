@@ -3,13 +3,11 @@ layout: page
 title: "Invited Talks & Lectures"
 ---
 
-
+* [The importance of motion perception in visual recognition](https://www.iarai.ac.at/events/the-importance-of-motion-perception-in-visual-recognition/), IARAI, Vienna, August, 2021
+* Learning Visual Perception for Autonomous Systems, Linköping University, Sweden, June, 2021
   
   <!---
-  <h3>Invited Talks &amp; Lectures (recently)</h3>
-<ul>
- 	<li><a href="https://www.iarai.ac.at/events/the-importance-of-motion-perception-in-visual-recognition/">The importance of motion perception in visual recognition</a>, IARAI, Vienna, August, 2021</li>
- 	<li>Learning Visual Perception for Autonomous Systems, Linköping University, Sweden, June, 2021</li>
+
  	<li>Vehicle Detection in Satellite Video, <a href="https://www.helmholtz.ai">Helmholtz AI</a> Virtual Conference, April, 2021</li>
  	<li>Vehicle Detection in Satellite Video, Planet Labs, Berlin, March, 2021</li>
  	<li>30/09-01/10/2020, Second professional course on <a href="https://www.ove.at/shop/product/522509-deep-learning-5e8c2ec80454c">Deep Learning</a> together with the OVE Academy (canceled)</li>
