@@ -13,7 +13,7 @@ A [Kurt Goedel stipend](https://kgs.logic.at) allowed me 2001-2002 to pursue a m
 
 Some of my contributions to science and the scientific community were awarded in 2008 with a Viennese [WWTF](https://www.wwtf.at/index.php?lang=EN) Career Grant, in 2014 with the IEEE/CvF WACV Best Paper Award and in 2019 with the CVPR Outstanding Reviewer award. In 2012, I found together with [Matej Kristan](https://www.vicos.si/people/matej_kristan/) the [VOT challenges and workshop series](https://www.votchallenge.net).
 
-Technologies such as my [traffic monitor](https://sciencev1.orf.at/news/35843.html) in 2010 or the [CMT](https://www.gnebehay.com/cmt/) tracker or the indoor localisation of our [surveillance camera calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) were successfully used by governmental organisations and (international) companies.
+Technologies such as my 2001 [traffic monitor](https://sciencev1.orf.at/news/35843.html) or the [CMT](https://www.gnebehay.com/cmt/) tracker or the indoor localisation of our [surveillance camera calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) were successfully used by governmental organisations and (international) companies.
 
 My hobbies are walking, hiking, swimming and riding my bike.
 
