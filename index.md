@@ -11,7 +11,7 @@ Since 2007, I have worked in the position of a Scientist at the [AIT Austrian In
 
 A [Kurt Goedel stipend](https://kgs.logic.at) allowed me 2001-2002 to pursue a master's degree in Computer Science and Informatics under the supervision of [Brian Lovell](https://staff.itee.uq.edu.au/lovell/) and Horst Bischof at the Queensland University of Technology, Australia and the TU Wien. I graduated in 2008 under supervision of [Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/) with a PhD in Telematics at TU Graz, Austria.
 
-Some of my contributions to science and the scientific community were awarded in 2008 with a Viennese [WWTF](https://www.wwtf.at/index.php?lang=EN) Career Grant, in 2014 with the IEEE/CvF WACV Best Paper Award and in 2019 with the CVPR Outstanding Reviewer award.
+Some of my contributions to science and the scientific community were awarded in 2008 with a Viennese [WWTF](https://www.wwtf.at/index.php?lang=EN) Career Grant, in 2014 with the IEEE/CvF WACV Best Paper Award and in 2019 with the CVPR Outstanding Reviewer award. In 2012, I found together with [Matej Kristan](https://www.vicos.si/people/matej_kristan/) the [VOT challenges and workshop series](https://www.votchallenge.net).
 
 Technologies such as the [CMT](https://www.gnebehay.com/cmt/) tracker or the indoor localisation of our [surveillance camera calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) were successfully used by companies and research organisations.
 
