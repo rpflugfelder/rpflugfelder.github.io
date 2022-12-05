@@ -5,7 +5,7 @@ layout: page
 ---
 ![Me](assets/images/pflugfelder-3.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-I am a [EuroTech](https://eurotech-universities.eu) Marie Curie fellow of the Technical University of Munich and the Technion in Haifa, Israel. I am a member of [Daniel Cremer's](https://vision.in.tum.de/members/pfl) and [Michael Lindenbaum's](https://mic.net.technion.ac.il) group. Since 2007, I have worked in the position of a Scientist at the [AIT Austrian Institute of Technology](https://www.ait.ac.at) and as lecturer in the [Computer Vision Lab](https://cvl.tuwien.ac.at) at TU Wien.
+I am a [EuroTech](https://eurotech-universities.eu) Marie Curie fellow of the Technical University Munich and the Technion in Haifa, Israel. I am a member of [Daniel Cremer's](https://vision.in.tum.de/members/pfl) and [Michael Lindenbaum's](https://mic.net.technion.ac.il) group. Since 2007, I have worked in the position of a Scientist at the [AIT Austrian Institute of Technology](https://www.ait.ac.at) and as lecturer in the [Computer Vision Lab](https://cvl.tuwien.ac.at) at TU Wien.
 
 I built 2008-2015 as manager of third-party funded projects a team of six researchers and coordinated 2012-2016 AIT's strategic programme [Mobile Vision](https://www.ots.at/presseaussendung/OTS_20130910_OTS0063/ait-und-tu-graz-buendeln-staerken-in-der-internationalen-bildverarbeitungsforschung-bild) in cooperation with [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/people/pock/), TU Graz and [Bernhard Rinner](https://bernhardrinner.com), University of Klagenfurt. 
 
