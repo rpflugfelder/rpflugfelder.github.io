@@ -10,7 +10,7 @@ I am affiliated with the [AIT Austrian Institute of Technology](https://www.ait.
 
 The focus of my current research is on the problem of dynamic, fragmented occlusion in machine and human vision. My broader scientific interest lies in motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding.
 
-I also enjoy to build with my research bridges to applications in the field of video surveillance. Technologies such as my [traffic monitor](https://sciencev1.orf.at/news/35843.html) based on competitive learning, our IEEE/CvF WACV'14 Best Paper [CMT](https://www.gnebehay.com/cmt/results.html) tracker based on the consensus of parts or the indoor localisation with non-overlapping security cameras using our [camera calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) based on SfM were successfully used by governmental organisations and companies.
+I also enjoy to build with my research bridges to applications in the field of video surveillance. Technologies such as my [traffic monitor](https://sciencev1.orf.at/news/35843.html) based on competitive learning, our IEEE/CvF WACV'14 Best Paper [CMT](https://www.gnebehay.com/cmt/results.html) tracker based on the consensus of parts or the indoor localisation with non-overlapping security cameras using our [camera calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) based on SfM were successfully used by governmental organisations and companies. For this, I managed at AIT a team of six researchers and coordinated a strategic programme [Mobile Vision](https://www.ots.at/presseaussendung/OTS_20130910_OTS0063/ait-und-tu-graz-buendeln-staerken-in-der-internationalen-bildverarbeitungsforschung-bild) which was a cooperation among AIT, [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/people/pock/), TU Graz and [Bernhard Rinner](https://bernhardrinner.com), University of Klagenfurt.
 
 I graduated under supervision of [Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/) with a PhD in Telematics at TU Graz. Before, I received my Diploma in Informatics from TU Wien and the Queensland University of Technology, Australia under supervision of Horst Bischof and [Brian Lovell](https://staff.itee.uq.edu.au/lovell/).
 
@@ -23,7 +23,7 @@ I was awarded for my scientific contributions in 2008 with a Viennese [WWTF](htt
 
 I founded in 2012 together with [Matej Kristan](https://www.vicos.si/people/matej_kristan/) the [VOT challenges and workshop series](https://www.votchallenge.net).
 
-where I built 2008-2015 as a manager of governmental and EU funded projects a team of six researchers. I coordinated 2012-2016 AIT's strategic programme [Mobile Vision](https://www.ots.at/presseaussendung/OTS_20130910_OTS0063/ait-und-tu-graz-buendeln-staerken-in-der-internationalen-bildverarbeitungsforschung-bild) which was a cooperation among AIT, [Thomas Pock](https://www.tugraz.at/institute/icg/research/team-pock/people/pock/), TU Graz and [Bernhard Rinner](https://bernhardrinner.com), University of Klagenfurt.
+where I built 2008-2015 as a manager of governmental and EU funded projects 
 
 --->
 
