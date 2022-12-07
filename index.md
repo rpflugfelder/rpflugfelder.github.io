@@ -10,6 +10,9 @@ I am affiliated with the [AIT Austrian Institute of Technology](https://www.ait.
 
 My broader scientific interest lies in motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding. The focus of my current research is on the problem of dynamic, fragmented occlusion in machine and human vision. 
 
+I like to build bridges to applications in the field of automated surveillance. Technologies such as my 2001 [traffic monitor](https://sciencev1.orf.at/news/35843.html), the [CMT](https://www.gnebehay.com/cmt/) tracker or the indoor localisation of our [surveillance camera calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) were successfully used by governmental organisations and companies for applications in robotics and surveillance.
+
+Please, see my [CV](assets/docs/sci-cv-pflugfelder.pdf) for more details.
 
 <!---
 I was awarded for my scientific contributions in 2008 with a Viennese [WWTF](https://www.wwtf.at/index.php?lang=EN) Career Grant and in 2014 with the IEEE/CvF WACV Best Paper Award. I received several reviewer awards (2016 - J. of Image and Vision Computing, 2017 - J. of Pattern Recognition, 2019 - CVPR) for my community work. In 2012, I founded together with [Matej Kristan](https://www.vicos.si/people/matej_kristan/) the [VOT challenges and workshop series](https://www.votchallenge.net) which we organised together with many other colleagues 2013-2022 at ICCV and ECCV.
@@ -21,9 +24,9 @@ A [Kurt Goedel stipend](https://kgs.logic.at) allowed me to pursue 2001-2002 a m
 --->
 
 
-Technologies such as my 2001 [traffic monitor](https://sciencev1.orf.at/news/35843.html), the [CMT](https://www.gnebehay.com/cmt/) tracker or the indoor localisation of our [surveillance camera calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) were successfully used by governmental organisations and companies for applications in robotics and surveillance.
 
-Please, see my [CV](assets/docs/sci-cv-pflugfelder.pdf) for more details.
+
+
 
 <!---
  I am programming in  
