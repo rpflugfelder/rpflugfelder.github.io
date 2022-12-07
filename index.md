@@ -14,7 +14,7 @@ I also enjoy to build with my research bridges to applications in the field of v
 
 I graduated under supervision of [Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/) with a PhD in Telematics at TU Graz. Before, I received my Diploma in Informatics from TU Wien and the Queensland University of Technology, Australia under supervision of Horst Bischof and [Brian Lovell](https://staff.itee.uq.edu.au/lovell/).
 
-Please, see my [CV](assets/docs/sci-cv-pflugfelder.pdf) for more details.
+Please, see my [CV](assets/docs/sci-cv-pflugfelder.pdf) for further details.
 
 <!---
 A [Kurt Goedel stipend](https://kgs.logic.at) allowed me to pursue 2001-2002 a master's degree in Computer Science and Informatics under the supervision of [Brian Lovell](https://staff.itee.uq.edu.au/lovell/) and Horst Bischof at  and TU Wien. 
