@@ -10,7 +10,7 @@ I am affiliated with the [AIT Austrian Institute of Technology](https://www.ait.
 
 My broader scientific interest lies in motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding. The focus of my current research is on the problem of dynamic, fragmented occlusion in machine and human vision. 
 
-I also enjoy to build with my research bridges to applications in the field of automated surveillance. Technologies such as my automated [traffic monitor](https://sciencev1.orf.at/news/35843.html), our [CMT](https://www.gnebehay.com/cmt/) tracker or the indoor localisation using our [calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) for non-overlapping security cameras were successfully used by governmental organisations and companies.
+I also enjoy to build with my research bridges to applications in the field of automated surveillance. Technologies such as my automated [traffic monitor](https://sciencev1.orf.at/news/35843.html), our [CMT](https://www.gnebehay.com/cmt/results.html) tracker or the indoor localisation using our [calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) for non-overlapping security cameras were successfully used by governmental organisations and companies.
 
 Please, see my [CV](assets/docs/sci-cv-pflugfelder.pdf) for more details.
 
