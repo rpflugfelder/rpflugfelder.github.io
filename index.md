@@ -12,7 +12,7 @@ The focus of my current research is on the problem of dynamic, fragmented occlus
 
 I also enjoy to build with my research bridges to applications in the field of video surveillance. Technologies such as my [traffic monitor](https://sciencev1.orf.at/news/35843.html) based on competitive learning, our IEEE/CvF WACV'14 Best Paper [CMT](https://www.gnebehay.com/cmt/results.html) tracker based on the consensus of parts or the indoor localisation with non-overlapping security cameras using our [camera calibration](https://link.springer.com/content/pdf/10.1007/978-3-319-16199-0_12.pdf) based on SfM were successfully used by governmental organisations and companies.
 
-I graduated under supervision of [Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/) with a PhD in Telematics at TU Graz. Before that I received my Diploma in Informatics from TU Wien and the Queensland University of Technology, Australia under supervision of Horst Bischof and [Brian Lovell](https://staff.itee.uq.edu.au/lovell/).
+I graduated under supervision of [Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/) with a PhD in Telematics at TU Graz. Before, I received my Diploma in Informatics from TU Wien and the Queensland University of Technology, Australia under supervision of Horst Bischof and [Brian Lovell](https://staff.itee.uq.edu.au/lovell/).
 
 Please, see my [CV](assets/docs/sci-cv-pflugfelder.pdf) for more details.
 
