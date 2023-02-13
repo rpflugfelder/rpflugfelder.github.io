@@ -5,6 +5,7 @@ title: "Research"
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
 
+# Early work
 [Early Work](research/early-work.md)
 
 
@@ -18,7 +19,7 @@ The summary of publications is found in my [publication list](/assets/docs/mybib
 # Work on Simultaneous Localisation and Tracking (SLAT)
 
 # Work on 
-# Early work
+
 
 <h5>The Problem of Fragmented Occlusion in Object Detection</h5>
 <div style="float: right; padding-left: 10px;"><img class="alignnone wp-image-8378" src="https://cvl.tuwien.ac.at/wp-content/uploads/2020/04/Level3.jpg" alt="" width="226" height="336" /></div>
