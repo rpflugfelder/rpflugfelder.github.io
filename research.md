@@ -1,7 +1,12 @@
 ---
-title: "Work"
 layout: page
+title: "Work"
 ---
+
+{% include publications.html %}
+
+***
+The summary of publications is found in my [publication list](/assets/docs/mybib.pdf).
 
 # Combining Motion Perception and Recognition
 # Work on Object Tracking
