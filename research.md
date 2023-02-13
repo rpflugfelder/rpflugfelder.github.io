@@ -1,3 +1,10 @@
+---
+title: "Work"
+layout: page
+---
+
+* Early work
+
 <h5><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" /></h5>
 &nbsp;
 <h5>The Problem of Fragmented Occlusion in Object Detection</h5>
