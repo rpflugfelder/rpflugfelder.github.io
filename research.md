@@ -3,6 +3,12 @@ title: "Work"
 layout: page
 ---
 
+# Combining Motion Perception and Recognition
+# Work on Object Tracking
+
+# Work on Simultaneous Localisation and Tracking (SLAT)
+
+# Work on 
 # Early work
 
 <h5><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" /></h5>
