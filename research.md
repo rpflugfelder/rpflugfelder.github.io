@@ -3,7 +3,7 @@ layout: page
 title: "Work"
 ---
 
-[Early Work](early-work.md)
+[Early Work](research/early-work.md)
 
 ***
 The summary of publications is found in my [publication list](/assets/docs/mybib.pdf).
