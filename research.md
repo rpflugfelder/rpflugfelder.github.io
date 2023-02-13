@@ -3,7 +3,7 @@ title: "Work"
 layout: page
 ---
 
-* Early work
+# Early work
 
 <h5><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" /></h5>
 &nbsp;
