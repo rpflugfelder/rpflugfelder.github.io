@@ -6,9 +6,7 @@ title: "Research"
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
 
 # Early work
-{% include_relative research/early-work.md %}
-
-[Early Work](research/early-work.md)
+{% include_relative research/early-work.html %}
 
 
 <!--
