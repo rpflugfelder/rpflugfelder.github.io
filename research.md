@@ -3,8 +3,12 @@ layout: page
 title: "Work"
 ---
 
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
+
 [Early Work](research/early-work.md)
 
+
+<!--
 ***
 The summary of publications is found in my [publication list](/assets/docs/mybib.pdf).
 
@@ -16,8 +20,6 @@ The summary of publications is found in my [publication list](/assets/docs/mybib
 # Work on 
 # Early work
 
-<h5><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" /></h5>
-&nbsp;
 <h5>The Problem of Fragmented Occlusion in Object Detection</h5>
 <div style="float: right; padding-left: 10px;"><img class="alignnone wp-image-8378" src="https://cvl.tuwien.ac.at/wp-content/uploads/2020/04/Level3.jpg" alt="" width="226" height="336" /></div>
 Object detection in natural environments is still a very challenging task, even though deep learning has brought a tremendous improvement in performance over the last years. A fundamental problem of object detection based on deep learning is that neither the training data nor the suggested models are intended for the challenge of fragmented occlusion. Fragmented occlusion is much more challenging than ordinary partial occlusion and occurs frequently in natural environments such as forests. A motivating example of fragmented occlusion is object detection through foliage which is an essential requirement in green border surveillance. This paper presents an analysis of state-of-the-art detectors with imagery of green borders and proposes to train Mask R-CNN on new training data which captures explicitly the problem of fragmented occlusion. The results show clear improvements of Mask R-CNN with this new training strategy (also against other detectors) for data showing slight fragmented occlusion. <a href="https://foldout.eu">h2020-foldout</a> <a href="https://arxiv.org/abs/2004.13076">arXiv</a> <a href="https://diglib.tugraz.at/download.php?id=5f6b1d5e08291&amp;location=browse">acvr</a>
@@ -60,3 +62,5 @@ Tracking methods are fundamental operations in traffic scene analysis. In this w
 </div>
 </div>
 Please, see my <a href="https://cvl.tuwien.ac.at/wp-content/uploads/2020/01/mybib.pdf">publication list</a> for more details.
+
+-->
