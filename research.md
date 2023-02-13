@@ -3,7 +3,7 @@ layout: page
 title: "Work"
 ---
 
-{% include publications.html %}
+{% include work.html %}
 
 ***
 The summary of publications is found in my [publication list](/assets/docs/mybib.pdf).
