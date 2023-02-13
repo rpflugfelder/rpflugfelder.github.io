@@ -5,8 +5,7 @@ title: "Research"
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
 
-# Early work
-Here is the [link](research/early-work.html)
+Here is the [link](research/early-work.html) to my early work.
 
 
 <!--
