@@ -3,24 +3,28 @@ layout: page
 title: "Research"
 ---
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
-
-# The Importance of Motion Analysis in Visual Perception and Understanding
-
-We [combined](research/trackdetect.html) detection and tracking of arbitrary looking objects.
-Here is the [link](research/early-work.md) to my early work.
-
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 
 <figure>
+  <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
+  <figcaption>my research profile is under construction.</figcaption>
+</figure>
+
+# Dynamic Perception and Understanding
+<figure>
   <img src="/assets/images/heeger.tiff" height="192" width="256" alt="Static Image" data-alt="/assets/images/heeger.gif">
-</figure>  
+  <figcaption>Depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>)</figcaption>
+</figure>
 
 <script src="/js/script-min.js"></script>
 
 
 <!--
+
+We [combined](research/trackdetect.html) detection and tracking of arbitrary looking objects.
+Here is the [link](research/early-work.md) to my early work.
+
 ***
 The summary of publications is found in my [publication list](/assets/docs/mybib.pdf).
 
