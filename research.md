@@ -8,13 +8,16 @@ title: "Research"
 
 <figure>
   <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
-  <figcaption>my research profile is under construction.</figcaption>
+  <figcaption>My research profile is under construction.</figcaption>
 </figure>
 
 # Dynamic Perception and Understanding
+
+Please move your mouse pointer over the image and click the left mouse button to start the animation.
+
 <figure>
   <img src="/assets/images/heeger.tiff" height="192" width="256" alt="Static Image" data-alt="/assets/images/heeger.gif">
-  <figcaption>Depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>)</figcaption>
+  <figcaption>Depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>).</figcaption>
 </figure>
 
 <script src="/js/script-min.js"></script>
