@@ -10,6 +10,15 @@ title: "Research"
 We [combined](research/trackdetect.html) detection and tracking of arbitrary looking objects.
 Here is the [link](research/early-work.md) to my early work.
 
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
+
+<figure>
+  <img src="/assets/images/heeger.tiff" height="192" width="256" alt="Static Image" data-alt="/assets/images/heeger.gif">
+</figure>  
+
+<script src="/js/script-min.js"></script>
+
 
 <!--
 ***
