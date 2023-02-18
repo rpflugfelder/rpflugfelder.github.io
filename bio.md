@@ -3,6 +3,8 @@ layout: page
 title: Bio
 ---
 
+![Me](assets/images/pflugfelder-3.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+
 I am a Computer Scientist and [EuroTech](https://eurotech-universities.eu) Marie Curie fellow of the Technical University Munich and the Technion in Haifa, Israel where I am working in [Daniel Cremer's](https://vision.in.tum.de/members/cremers) and [Michael Lindenbaum's](https://mic.net.technion.ac.il) group.
 I am affiliated with the [AIT Austrian Institute of Technology](https://www.ait.ac.at) and the [Computer Vision Lab](https://cvl.tuwien.ac.at) at TU Wien where I am currently on leave.
 
