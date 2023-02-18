@@ -13,7 +13,7 @@ title: "Research"
 
 # Dynamic Perception and Understanding
 
-My scientific interest lies in visual motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding.
+My scientific interest lies in visual motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding. I currently focus in my research on the problem of fragmented and dynamic occlusion in machine and human vision.
 
 ## Examples
 
