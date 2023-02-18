@@ -30,7 +30,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 </figure>
 
 <figure>
-  <img src="/assets/images/heeger.tiff" height="240" width="320" alt="3D Image" data-alt="/assets/images/heeger.gif">
+  <img src="/assets/images/heeger.png" height="240" width="320" alt="3D Image" data-alt="/assets/images/heeger.gif">
   <figcaption>Perceive depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>).</figcaption>
 </figure>
 
