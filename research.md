@@ -16,9 +16,16 @@ title: "Research"
 Please move your mouse pointer over the image and click the left mouse button to start the animation.
 
 <figure>
+  <img src="/assets/images/cam.png" height="240" width="300" alt="Static Image" data-alt="/assets/images/cam.gif">
+  <figcaption>Depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>).</figcaption>
+</figure>
+
+<figure>
   <img src="/assets/images/heeger.tiff" height="192" width="256" alt="Static Image" data-alt="/assets/images/heeger.gif">
   <figcaption>Depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>).</figcaption>
 </figure>
+
+
 
 <script src="/js/script-min.js"></script>
 
