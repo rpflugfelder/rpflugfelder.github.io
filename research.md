@@ -17,7 +17,7 @@ Please move your mouse pointer over the image and click the left mouse button to
 
 <figure>
   <img src="/assets/images/cam.png" height="240" width="300" alt="Static Image" data-alt="/assets/images/cam.gif">
-  <figcaption>Depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>).</figcaption>
+  <figcaption>Camouflage makes object recognition challenging, however, object motion reveals object appearance (<a href="https://doi.org/10.1177/20416695211062625">G. Caplovitz</a>).</figcaption>
 </figure>
 
 <figure>
