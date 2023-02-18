@@ -13,7 +13,11 @@ title: "Research"
 
 # Dynamic Perception and Understanding
 
-Please move your mouse pointer over the image and click the left mouse button to start the animation.
+My scientific interest lies in visual motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding.
+
+## Examples
+
+Please move your mouse pointer (or finger) over the image and click the left mouse button (or touch your display) to start the animation and to perceive motion.
 
 <figure>
   <img src="/assets/images/cam.png" height="240" width="300" alt="Static Image" data-alt="/assets/images/cam.gif">
