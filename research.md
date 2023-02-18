@@ -17,21 +17,21 @@ My scientific interest lies in visual motion analysis and tracking and in the im
 
 ## Examples
 
-Please move your mouse pointer (or finger) over the image and click the left mouse button (or touch your display) to start the animation and to perceive motion. The motion allows the recognition of the object.
+Please move your mouse pointer (or finger) over the image and click the left mouse button (or touch your display) to start the animation and to perceive motion.
 
 <figure>
   <img src="/assets/images/cam.png" height="256" width="320" alt="Cam Image" data-alt="/assets/images/cam.gif">
-  <figcaption>Camouflage makes recognition challenging (<a href="https://doi.org/10.1177/20416695211062625">G. Caplovitz</a>).</figcaption>
+  <figcaption>Motion makes a camouflaged person in thermal images visible (<a href="https://doi.org/10.1177/20416695211062625">G. Caplovitz</a>).</figcaption>
 </figure>
 
 <figure>
   <img src="/assets/images/frag.png" height="320" width="320" alt="Frag Image" data-alt="/assets/images/frag.gif">
-  <figcaption>Fragmented occlusion makes recognition challenging (<a href="https://doi.org/10.1006/cviu.1996.0006">M. Black</a>).</figcaption>
+  <figcaption>Motion reveals a fragmentally occluded person through foliage (<a href="https://doi.org/10.1006/cviu.1996.0006">M. Black</a>).</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/heeger.tiff" height="240" width="320" alt="Static Image" data-alt="/assets/images/heeger.gif">
-  <figcaption>Depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>).</figcaption>
+  <img src="/assets/images/heeger.tiff" height="240" width="320" alt="3D Image" data-alt="/assets/images/heeger.gif">
+  <figcaption>Perceive depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>).</figcaption>
 </figure>
 
 
