@@ -21,7 +21,7 @@ Please move your mouse pointer over the image and click the left mouse button to
 </figure>
 
 <figure>
-  <img src="/assets/images/heeger.tiff" height="192" width="256" alt="Static Image" data-alt="/assets/images/heeger.gif">
+  <img src="/assets/images/heeger.tiff" height="240" width="320" alt="Static Image" data-alt="/assets/images/heeger.gif">
   <figcaption>Depth from motion (<a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">D. Heeger</a>).</figcaption>
 </figure>
 
