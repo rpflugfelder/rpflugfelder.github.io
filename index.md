@@ -74,6 +74,8 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 
 <script src="/js/script-min.js"></script>
 
+***
+
 <figure>
   <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
   <figcaption>My research profile is under construction.</figcaption>
@@ -88,17 +90,6 @@ I am programming in
 
 <!--
 
-
-<h5>The Problem of Fragmented Occlusion in Object Detection</h5>
-<div style="float: right; padding-left: 10px;"><img class="alignnone wp-image-8378" src="https://cvl.tuwien.ac.at/wp-content/uploads/2020/04/Level3.jpg" alt="" width="226" height="336" /></div>
-Object detection in natural environments is still a very challenging task, even though deep learning has brought a tremendous improvement in performance over the last years. A fundamental problem of object detection based on deep learning is that neither the training data nor the suggested models are intended for the challenge of fragmented occlusion. Fragmented occlusion is much more challenging than ordinary partial occlusion and occurs frequently in natural environments such as forests. A motivating example of fragmented occlusion is object detection through foliage which is an essential requirement in green border surveillance. This paper presents an analysis of state-of-the-art detectors with imagery of green borders and proposes to train Mask R-CNN on new training data which captures explicitly the problem of fragmented occlusion. The results show clear improvements of Mask R-CNN with this new training strategy (also against other detectors) for data showing slight fragmented occlusion. <a href="https://foldout.eu">h2020-foldout</a> <a href="https://arxiv.org/abs/2004.13076">arXiv</a> <a href="https://diglib.tugraz.at/download.php?id=5f6b1d5e08291&amp;location=browse">acvr</a>
-<h5 class="title mathjax"><a name="satvideo"></a>On Learning Vehicle Detection in Satellite Video</h5>
-<div style="float: right; padding-left: 10px;">
-
-[video width="220" height="220" mp4="https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/lasvegas180.mp4" loop="true" autoplay="true"][/video]
-
-</div>
-Vehicle detection in aerial and satellite images is still challenging due to their tiny appearance in pixels compared to the overall size of remote sensing imagery. Classical methods of object detection very often fail in this scenario due to violation of implicit assumptions made such as rich texture, small to moderate ratios between image size and object size. Satellite video is a very new modality which introduces temporal consistency as inductive bias. Approaches for vehicle detection in satellite video use either background subtraction, frame differencing or subspace methods showing moderate performance (0.26 - 0.82 <span id="MathJax-Element-1-Frame" class="MathJax" tabindex="0"><span id="MathJax-Span-1" class="math"><span id="MathJax-Span-2" class="mrow"><span id="MathJax-Span-3" class="msubsup"><span id="MathJax-Span-4" class="mi">F</span><span id="MathJax-Span-5" class="mn">1</span></span></span></span></span> score). This work proposes to apply recent work on deep learning for wide-area motion imagery (WAMI) on satellite video. We show in a first approach comparable results (0.84 <span id="MathJax-Element-2-Frame" class="MathJax" tabindex="0"><span id="MathJax-Span-6" class="math"><span id="MathJax-Span-7" class="mrow"><span id="MathJax-Span-8" class="msubsup"><span id="MathJax-Span-9" class="mi">F</span><span id="MathJax-Span-10" class="mn">1</span></span></span></span></span>) on Planet's SkySat-1 LasVegas video with room for further improvement. <a href="https://arxiv.org/abs/2001.10900">arXiv </a><a href="https://data.vicos.si/cvww20/CVWW20-proceedings.pdf">cvww</a>
 <h5>Benchmarking Tracking</h5>
 <img class="alignnone size-full wp-image-6894" src="https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/logo_website.png" alt="" width="127" height="61" />      <img class="alignnone size-medium wp-image-6895" src="https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/videonet_title-300x78.png" alt="" width="300" height="78" />
 In 2012, I initiated together with Matej Kristan the Visual Object Tracking Challenge (VOT) and since then I have been co-organising annual challenges and workshops at ICCV and ECCV with Matej Kristan, Ales Leonardis, Jiri Matas, Michael Felsberg and Joni-Kristian Kämäräinen. VOT is de facto the international community benchmark in the field of visual tracking. Important results of our work are A-R measures for quantifying short-term tracking performance in terms of accuracy and robustness and the discovery of correlation filters as superior approach for tracking. More information can be found on our <a href="http://www.votchallenge.net">webpage</a>. VOT is also part of the benchmark <a href="http://videonet.team/#team">initiative</a> for all things video.
