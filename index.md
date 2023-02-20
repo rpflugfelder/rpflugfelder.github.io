@@ -4,6 +4,10 @@ permalink: "/"
 layout: page
 ---
 
+Other [work](/research.md) I did.
+
+***
+
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 
