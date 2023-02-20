@@ -7,6 +7,13 @@ I supervise students in visual recognition, motion analysis, object tracking and
 
 You are looking for a [topic](thesis.html) and you are interested? Then, please [contact me](mailto:roman.pflugfelder@tum.de)!
 
+***
+
+I am programming in
+<a href="https://julialang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png" width="69" alt="Julia Image" data-alt=""></a> and
+<a href="https://jax.readthedocs.io/en/latest/index.html"><img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" width="69" alt="JAX Image" data-alt=""></a>.
+
+
 ### My Current Students
 * Marian Loser, TUM, Master's thesis on _Video Deocclusion_
 * Ada Fok, TUM, Guided Research on _Vehicle Detection in a Sequence of Satellite Images_
