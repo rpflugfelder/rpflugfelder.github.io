@@ -4,7 +4,7 @@ layout: page
 ---
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png" width="69" alt="Julia Image" data-alt="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png" width="140" alt="Julia Image" data-alt="">
   <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" width="140" alt="JAX Image" data-alt="">
   <figcaption>Are you interested in <a href="https://julialang.org">Julia</a> or <a href="https://jax.readthedocs.io/en/latest/index.html">JAX</a>? If yes, please, contact me!</figcaption>
 </figure>
