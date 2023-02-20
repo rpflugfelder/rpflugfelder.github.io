@@ -61,7 +61,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 </figure>
 
 <figure>
-  <img src="/assets/images/sfm.png" height="202" width="320" alt="Socp Image" data-alt="/assets/images/sfm.gif">
+  <img src="/assets/images/sfm.png" height="202" width="320" alt="Sfm Image" data-alt="/assets/images/sfm.gif">
   <figcaption>... as well as structure from motion captured by an additional moving camera (
     <a href="https://patents.google.com/patent/AT511968B1/en">AT Patent</a>,
     <a href="https://doi.org/10.1109/3DV.2013.27">3DV'13</a>,
