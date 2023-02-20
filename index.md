@@ -7,13 +7,6 @@ layout: page
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 
-I am programming in
-
-<a href="https://julialang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png" width="69" alt="Julia Image" data-alt=""></a>
-<a href="https://jax.readthedocs.io/en/latest/index.html"><img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" width="69" alt="JAX Image" data-alt=""></a>
-
-***
-
 # Dynamic Perception and Understanding
 
 My scientific interest lies in visual motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding. I currently focus in my research on the problem of fragmented and dynamic occlusion in machine and human vision.
@@ -86,11 +79,15 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>My research profile is under construction.</figcaption>
 </figure>
 
+***
+
+I am programming in
+<a href="https://julialang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png" width="69" alt="Julia Image" data-alt=""></a>
+<a href="https://jax.readthedocs.io/en/latest/index.html"><img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" width="69" alt="JAX Image" data-alt=""></a>
+
+
 <!--
 
-
-***
-The summary of publications is found in my [publication list](/assets/docs/mybib.pdf).
 
 <h5>The Problem of Fragmented Occlusion in Object Detection</h5>
 <div style="float: right; padding-left: 10px;"><img class="alignnone wp-image-8378" src="https://cvl.tuwien.ac.at/wp-content/uploads/2020/04/Level3.jpg" alt="" width="226" height="336" /></div>
