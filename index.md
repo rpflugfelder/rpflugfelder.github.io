@@ -7,11 +7,6 @@ layout: page
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 
-<figure>
-  <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
-  <figcaption>My research profile is under construction.</figcaption>
-</figure>
-
 # Dynamic Perception and Understanding
 
 My scientific interest lies in visual motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding. I currently focus in my research on the problem of fragmented and dynamic occlusion in machine and human vision.
@@ -47,7 +42,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>Vehicles are reliably detected in satellite images by using motion (<a href="https://arxiv.org/abs/2204.06828">arXiv'22</a>, <a href="https://data.vicos.si/cvww20/05.pdf"> CVWW'20</a>).</figcaption>
 </figure>
 
-## Camera Calibration
+## Simultaneous Localisation and Tracking (SLAT), Camera Calibration
 
 <figure>
   <img src="/assets/images/socp.png" height="252" width="320" alt="Socp Image" data-alt="/assets/images/socp.gif">
@@ -77,37 +72,24 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>Motion let us perceive depth and many more things! For more examples, visit D. Heeger's <a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">webpage</a>.</figcaption>
 </figure>
 
-
-
 <script src="/js/script-min.js"></script>
+
+***
+
+<figure>
+  <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
+  <figcaption>My research profile is under construction.</figcaption>
+</figure>
+
+***
+
+I am programming in
+<a href="https://julialang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png" width="69" alt="Julia Image" data-alt=""></a> and
+<a href="https://jax.readthedocs.io/en/latest/index.html"><img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" width="69" alt="JAX Image" data-alt=""></a>.
 
 
 <!--
 
-We [combined](research/trackdetect.html) detection and tracking of arbitrary looking objects.
-Here is the [link](research/early-work.md) to my early work.
-
-***
-The summary of publications is found in my [publication list](/assets/docs/mybib.pdf).
-
-# Combining Motion Perception and Recognition
-# Work on Object Tracking
-
-# Work on Simultaneous Localisation and Tracking (SLAT)
-
-# Work on 
-
-
-<h5>The Problem of Fragmented Occlusion in Object Detection</h5>
-<div style="float: right; padding-left: 10px;"><img class="alignnone wp-image-8378" src="https://cvl.tuwien.ac.at/wp-content/uploads/2020/04/Level3.jpg" alt="" width="226" height="336" /></div>
-Object detection in natural environments is still a very challenging task, even though deep learning has brought a tremendous improvement in performance over the last years. A fundamental problem of object detection based on deep learning is that neither the training data nor the suggested models are intended for the challenge of fragmented occlusion. Fragmented occlusion is much more challenging than ordinary partial occlusion and occurs frequently in natural environments such as forests. A motivating example of fragmented occlusion is object detection through foliage which is an essential requirement in green border surveillance. This paper presents an analysis of state-of-the-art detectors with imagery of green borders and proposes to train Mask R-CNN on new training data which captures explicitly the problem of fragmented occlusion. The results show clear improvements of Mask R-CNN with this new training strategy (also against other detectors) for data showing slight fragmented occlusion. <a href="https://foldout.eu">h2020-foldout</a> <a href="https://arxiv.org/abs/2004.13076">arXiv</a> <a href="https://diglib.tugraz.at/download.php?id=5f6b1d5e08291&amp;location=browse">acvr</a>
-<h5 class="title mathjax"><a name="satvideo"></a>On Learning Vehicle Detection in Satellite Video</h5>
-<div style="float: right; padding-left: 10px;">
-
-[video width="220" height="220" mp4="https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/lasvegas180.mp4" loop="true" autoplay="true"][/video]
-
-</div>
-Vehicle detection in aerial and satellite images is still challenging due to their tiny appearance in pixels compared to the overall size of remote sensing imagery. Classical methods of object detection very often fail in this scenario due to violation of implicit assumptions made such as rich texture, small to moderate ratios between image size and object size. Satellite video is a very new modality which introduces temporal consistency as inductive bias. Approaches for vehicle detection in satellite video use either background subtraction, frame differencing or subspace methods showing moderate performance (0.26 - 0.82 <span id="MathJax-Element-1-Frame" class="MathJax" tabindex="0"><span id="MathJax-Span-1" class="math"><span id="MathJax-Span-2" class="mrow"><span id="MathJax-Span-3" class="msubsup"><span id="MathJax-Span-4" class="mi">F</span><span id="MathJax-Span-5" class="mn">1</span></span></span></span></span> score). This work proposes to apply recent work on deep learning for wide-area motion imagery (WAMI) on satellite video. We show in a first approach comparable results (0.84 <span id="MathJax-Element-2-Frame" class="MathJax" tabindex="0"><span id="MathJax-Span-6" class="math"><span id="MathJax-Span-7" class="mrow"><span id="MathJax-Span-8" class="msubsup"><span id="MathJax-Span-9" class="mi">F</span><span id="MathJax-Span-10" class="mn">1</span></span></span></span></span>) on Planet's SkySat-1 LasVegas video with room for further improvement. <a href="https://arxiv.org/abs/2001.10900">arXiv </a><a href="https://data.vicos.si/cvww20/CVWW20-proceedings.pdf">cvww</a>
 <h5>Benchmarking Tracking</h5>
 <img class="alignnone size-full wp-image-6894" src="https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/logo_website.png" alt="" width="127" height="61" />      <img class="alignnone size-medium wp-image-6895" src="https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/videonet_title-300x78.png" alt="" width="300" height="78" />
 In 2012, I initiated together with Matej Kristan the Visual Object Tracking Challenge (VOT) and since then I have been co-organising annual challenges and workshops at ICCV and ECCV with Matej Kristan, Ales Leonardis, Jiri Matas, Michael Felsberg and Joni-Kristian Kämäräinen. VOT is de facto the international community benchmark in the field of visual tracking. Important results of our work are A-R measures for quantifying short-term tracking performance in terms of accuracy and robustness and the discovery of correlation filters as superior approach for tracking. More information can be found on our <a href="http://www.votchallenge.net">webpage</a>. VOT is also part of the benchmark <a href="http://videonet.team/#team">initiative</a> for all things video.
@@ -141,27 +123,3 @@ Tracking methods are fundamental operations in traffic scene analysis. In this w
 Please, see my <a href="https://cvl.tuwien.ac.at/wp-content/uploads/2020/01/mybib.pdf">publication list</a> for more details.
 
 -->
-
-
-
-<!---
-A [Kurt Goedel stipend](https://kgs.logic.at) allowed me to pursue 2001-2002 a master's degree in Computer Science and Informatics under the supervision of [Brian Lovell](https://staff.itee.uq.edu.au/lovell/) and Horst Bischof at  and TU Wien. 
-
-I was awarded for my scientific contributions in 2008 with a Viennese [WWTF](https://www.wwtf.at/index.php?lang=EN) Career Grant and in 2014 with the IEEE/CvF WACV Best Paper Award. I received several reviewer awards (2016 - J. of Image and Vision Computing, 2017 - J. of Pattern Recognition, 2019 - CVPR) for my community work. 
-
-I founded in 2012 together with [Matej Kristan](https://www.vicos.si/people/matej_kristan/) the [VOT challenges and workshop series](https://www.votchallenge.net).
-
-where I built 2008-2015 as a manager of governmental and EU funded projects 
-
---->
-
-
-
-
-
-
-<!---
- I am programming in  
-
- [![Julia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png)](https://julialang.org)
---->
