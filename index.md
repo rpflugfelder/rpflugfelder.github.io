@@ -81,13 +81,6 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>My research profile is under construction.</figcaption>
 </figure>
 
-***
-
-I am programming in
-<a href="https://julialang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png" width="69" alt="Julia Image" data-alt=""></a> and
-<a href="https://jax.readthedocs.io/en/latest/index.html"><img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" width="69" alt="JAX Image" data-alt=""></a>.
-
-
 <!--
 
 <h5>Benchmarking Tracking</h5>
