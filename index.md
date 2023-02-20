@@ -39,7 +39,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 
 <figure>
   <img src="/assets/images/car.png" height="256" width="320" alt="Car Image" data-alt="/assets/images/car.gif">
-  <figcaption>Motion helps a detector to aquire online a representation (green circles) of a car starting from an initial bounding box in the first image (<a href="https://doi.org/10.1109/WACV.2014.6836013">IEEE WACV'14</a>, <a href="https://doi.org/10.1109/CVPR.2015.7298895"> CVPR'15</a>).</figcaption>
+  <figcaption>Motion helps a detector to aquire online a representation (green circles) of a car starting from an initial bounding box (<a href="https://doi.org/10.1109/WACV.2014.6836013">WACV'14</a>, <a href="https://doi.org/10.1109/CVPR.2015.7298895"> CVPR'15</a>).</figcaption>
 </figure>
 
 ## Further Examples
