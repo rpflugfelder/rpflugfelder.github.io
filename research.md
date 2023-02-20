@@ -10,3 +10,5 @@ title: Other Research Work
   <img src="/assets/images/pnd.png" height="180" width="320" alt="Frag Image" data-alt="/assets/images/pnd.gif">
   <figcaption>My PhD thesis work.</figcaption>
 </figure>
+
+<script src="/js/script-min.js"></script>
