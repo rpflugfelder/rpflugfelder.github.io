@@ -51,7 +51,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 
 <figure>
   <img src="/assets/images/socp.png" height="256" width="320" alt="Socp Image" data-alt="/assets/images/socp.gif">
-  <figcaption>Motion gives clues on calibration of multiple security cameras with non-overlapping fields of view (
+  <figcaption>Motion of a person gives clues for the calibration of multiple security cameras with non-overlapping fields of view (
     <a href="https://doi.org/10.1007/978-3-642-15986-2_3">DAGM'10</a>,
     <a href="https://doi.org/10.1109/TPAMI.2009.56">IEEE TPAMI</a>,
     <a href="https://doi.org/10.1109/CVPR.2010.5540028">CVPR'10</a>,
@@ -59,8 +59,6 @@ Please move your mouse pointer (or finger) over the image and click the left mou
     <a href="https://doi.org/10.1109/ICCV.2011.6126334">ICCV'11</a>).
   </figcaption>
 </figure>
-
-
 
 ## Further Examples
 
