@@ -3,16 +3,17 @@ title: "Students"
 layout: page
 ---
 
-I supervise students in visual recognition, motion analysis, object tracking and visual learning.
-
-You are looking for a [topic](thesis.html) and you are interested? Then, please [contact me](mailto:roman.pflugfelder@tum.de)!
-
-***
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png" width="69" alt="Julia Image" data-alt="">
   <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" width="69" alt="JAX Image" data-alt="">
   <figcaption>Are you interested in <a href="https://julialang.org">Julia</a> and <a href="https://jax.readthedocs.io/en/latest/index.html">JAX</a>?</figcaption>
 </figure>
+
+***
+
+I supervise students in visual recognition, motion analysis, object tracking and visual learning.
+
+You are looking for a [topic](thesis.html) and you are interested? Then, please [contact me](mailto:roman.pflugfelder@tum.de)!
 
 ### My Current Students
 * Marian Loser, TUM, Master's thesis on _Video Deocclusion_
