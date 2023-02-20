@@ -4,10 +4,6 @@ permalink: "/"
 layout: page
 ---
 
-Other [work](/research.md) I did.
-
-***
-
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 
@@ -77,6 +73,10 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 </figure>
 
 <script src="/js/script-min.js"></script>
+
+***
+
+Other research [work](research.md) in other areas of vision.
 
 ***
 
