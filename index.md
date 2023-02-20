@@ -76,6 +76,10 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 
 ***
 
+Other research [work](research.md) in other areas of vision.
+
+***
+
 <figure>
   <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
   <figcaption>My research profile is under construction.</figcaption>
@@ -109,10 +113,5 @@ Quantitative results from existing papers are compared with the conclusion that 
 <div class="column">
 
 Tracking methods are fundamental operations in traffic scene analysis. In this work we report on a tracking algorithm with a Kalman filter for traffic surveillance in tun- nels. The difficulties of solving the problem are the illumina- tion conditions and the image quality. We demonstrate our work on short sequences of tunnel scenes. <a href="https://www.researchgate.net/profile/Horst_Bischof/publication/260403050_Car_tracking_in_tunnels/links/53cfc4470cf2fd75bc59f73d/Car-tracking-in-tunnels.pdf">CVWW</a>
-
-</div>
-</div>
-</div>
-Please, see my <a href="https://cvl.tuwien.ac.at/wp-content/uploads/2020/01/mybib.pdf">publication list</a> for more details.
 
 -->
