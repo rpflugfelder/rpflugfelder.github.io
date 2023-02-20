@@ -38,27 +38,37 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 ## Object Detection
 
 <figure>
-  <img src="/assets/images/car.png" height="256" width="320" alt="Car Image" data-alt="/assets/images/car.gif">
+  <img src="/assets/images/car.png" height="240" width="320" alt="Car Image" data-alt="/assets/images/car.gif">
   <figcaption>Motion helps a detector to aquire online a robust representation (green circles) of a car starting from an initial bounding box (<a href="https://doi.org/10.1109/WACV.2014.6836013">WACV'14</a>, <a href="https://doi.org/10.1109/CVPR.2015.7298895"> CVPR'15</a>).</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/sat.png" height="256" width="320" alt="Sat Image" data-alt="/assets/images/sat.gif">
+  <img src="/assets/images/sat.png" height="320" width="320" alt="Sat Image" data-alt="/assets/images/sat.gif">
   <figcaption>Vehicles are reliably detected in satellite images by using motion (<a href="https://arxiv.org/abs/2204.06828">arXiv'22</a>, <a href="https://data.vicos.si/cvww20/05.pdf"> CVWW'20</a>).</figcaption>
 </figure>
 
 ## Camera Calibration
 
 <figure>
-  <img src="/assets/images/socp.png" height="256" width="320" alt="Socp Image" data-alt="/assets/images/socp.gif">
+  <img src="/assets/images/socp.png" height="252" width="320" alt="Socp Image" data-alt="/assets/images/socp.gif">
   <figcaption>Motion of a person gives clues for the calibration of multiple security cameras with non-overlapping fields of view (
     <a href="https://doi.org/10.1007/978-3-642-15986-2_3">DAGM'10</a>,
     <a href="https://doi.org/10.1109/TPAMI.2009.56">IEEE TPAMI</a>,
     <a href="https://doi.org/10.1109/CVPR.2010.5540028">CVPR'10</a>,
     <a href="https://doi.org/10.1109/CVPR.2011.5995534">CVPR'11</a>,
-    <a href="https://doi.org/10.1109/ICCV.2011.6126334">ICCV'11</a>).
+    <a href="https://doi.org/10.1109/ICCV.2011.6126334">ICCV'11</a>) ...
   </figcaption>
 </figure>
+
+<figure>
+  <img src="/assets/images/sfm.png" height="202" width="320" alt="Socp Image" data-alt="/assets/images/sfm.gif">
+  <figcaption>... as well as structure from motion captured by an additional moving camera (
+    <a href="https://patents.google.com/patent/AT511968B1/en">AT Patent</a>,
+    <a href="https://doi.org/10.1109/3DV.2013.27">3DV'13</a>,
+    <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b633f72c732569110b26efaa87d87a3cf2641960">ECCVW'14</a>,
+  </figcaption>
+</figure>
+
 
 ## Further Examples
 
