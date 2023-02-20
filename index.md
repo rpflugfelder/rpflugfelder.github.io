@@ -7,10 +7,9 @@ layout: page
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 
-<figure>
-  <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
-  <figcaption>My research profile is under construction.</figcaption>
-</figure>
+I am programming in [![Julia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png)](https://julialang.org).
+
+***
 
 # Dynamic Perception and Understanding
 
@@ -47,7 +46,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>Vehicles are reliably detected in satellite images by using motion (<a href="https://arxiv.org/abs/2204.06828">arXiv'22</a>, <a href="https://data.vicos.si/cvww20/05.pdf"> CVWW'20</a>).</figcaption>
 </figure>
 
-## Camera Calibration
+## Simultaneous Localisation and Tracking (SLAT), Camera Calibration
 
 <figure>
   <img src="/assets/images/socp.png" height="252" width="320" alt="Socp Image" data-alt="/assets/images/socp.gif">
@@ -77,26 +76,18 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>Motion let us perceive depth and many more things! For more examples, visit D. Heeger's <a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion.html">webpage</a>.</figcaption>
 </figure>
 
-
-
 <script src="/js/script-min.js"></script>
 
+<figure>
+  <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
+  <figcaption>My research profile is under construction.</figcaption>
+</figure>
 
 <!--
 
-We [combined](research/trackdetect.html) detection and tracking of arbitrary looking objects.
-Here is the [link](research/early-work.md) to my early work.
 
 ***
 The summary of publications is found in my [publication list](/assets/docs/mybib.pdf).
-
-# Combining Motion Perception and Recognition
-# Work on Object Tracking
-
-# Work on Simultaneous Localisation and Tracking (SLAT)
-
-# Work on 
-
 
 <h5>The Problem of Fragmented Occlusion in Object Detection</h5>
 <div style="float: right; padding-left: 10px;"><img class="alignnone wp-image-8378" src="https://cvl.tuwien.ac.at/wp-content/uploads/2020/04/Level3.jpg" alt="" width="226" height="336" /></div>
@@ -153,15 +144,4 @@ I founded in 2012 together with [Matej Kristan](https://www.vicos.si/people/mate
 
 where I built 2008-2015 as a manager of governmental and EU funded projects 
 
---->
-
-
-
-
-
-
-<!---
- I am programming in  
-
- [![Julia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/200px-Julia_Programming_Language_Logo.svg.png)](https://julialang.org)
 --->
