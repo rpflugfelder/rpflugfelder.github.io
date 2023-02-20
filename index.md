@@ -35,11 +35,16 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>Motion makes a camouflaged person in thermal images visible.</figcaption>
 </figure>
 
-## Object Tracking Example
+## Examples of Object Detection
 
 <figure>
   <img src="/assets/images/car.png" height="256" width="320" alt="Car Image" data-alt="/assets/images/car.gif">
   <figcaption>Motion helps a detector to aquire online a robust representation (green circles) of a car starting from an initial bounding box (<a href="https://doi.org/10.1109/WACV.2014.6836013">WACV'14</a>, <a href="https://doi.org/10.1109/CVPR.2015.7298895"> CVPR'15</a>).</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/sat.png" height="256" width="320" alt="Sat Image" data-alt="/assets/images/sat.gif">
+  <figcaption>Vehicles are reliable detected in satellite images by using motion (<a href="https://arxiv.org/abs/2204.06828">arXiv'22</a>, <a href="https://data.vicos.si/cvww20/05.pdf"> CVWW'20</a>).</figcaption>
 </figure>
 
 ## Further Examples
