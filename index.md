@@ -44,7 +44,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 
 <figure>
   <img src="/assets/images/sat.png" height="256" width="320" alt="Sat Image" data-alt="/assets/images/sat.gif">
-  <figcaption>Vehicles are reliable detected in satellite images by using motion (<a href="https://arxiv.org/abs/2204.06828">arXiv'22</a>, <a href="https://data.vicos.si/cvww20/05.pdf"> CVWW'20</a>).</figcaption>
+  <figcaption>Vehicles are reliably detected in satellite images by using motion (<a href="https://arxiv.org/abs/2204.06828">arXiv'22</a>, <a href="https://data.vicos.si/cvww20/05.pdf"> CVWW'20</a>).</figcaption>
 </figure>
 
 ## Further Examples
