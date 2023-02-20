@@ -60,7 +60,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>... as well as structure from motion captured by an additional moving camera (
     <a href="https://patents.google.com/patent/AT511968B1/en">AT Patent</a>,
     <a href="https://doi.org/10.1109/3DV.2013.27">3DV'13</a>,
-    <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b633f72c732569110b26efaa87d87a3cf2641960">ECCVW'14</a>,
+    <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b633f72c732569110b26efaa87d87a3cf2641960">ECCVW'14</a>).
   </figcaption>
 </figure>
 
