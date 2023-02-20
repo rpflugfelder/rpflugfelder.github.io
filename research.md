@@ -6,6 +6,10 @@ title: Other Research Work
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 
+Please move your mouse pointer (or finger) over the image and click the left mouse button (or touch your display) to start the animation and to perceive motion.
+
+***
+
 <figure>
   <img src="/assets/images/pnd.png" height="240" width="320" alt="Frag Image" data-alt="/assets/images/pnd.gif">
   <figcaption>I developed a monocular calibration algorithms and showed that calibration of security cameras allows better person re-identification (<a href="https://diglib.tugraz.at/download.php?id=577a025937213&location=browse">PhD thesis</a>).</figcaption>
