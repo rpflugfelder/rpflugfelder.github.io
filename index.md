@@ -16,7 +16,7 @@ layout: page
 
 My scientific interest lies in visual motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding. I currently focus in my research on the problem of fragmented and dynamic occlusion in machine and human vision.
 
-## Examples of Fragmented and Dynamic Occlusion
+## Fragmented and Dynamic Occlusion
 
 Please move your mouse pointer (or finger) over the image and click the left mouse button (or touch your display) to start the animation and to perceive motion.
 
@@ -35,7 +35,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>Motion makes a camouflaged person in thermal images visible.</figcaption>
 </figure>
 
-## Examples of Object Detection
+## Object Detection
 
 <figure>
   <img src="/assets/images/car.png" height="256" width="320" alt="Car Image" data-alt="/assets/images/car.gif">
