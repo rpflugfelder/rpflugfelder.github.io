@@ -16,4 +16,4 @@ I graduated under supervision of [Horst Bischof](https://www.tugraz.at/institute
 
 I was awarded for my scientific contributions in 2008 with a Viennese [WWTF](https://www.wwtf.at/index.php?lang=EN) Career Grant and in 2014 with the IEEE/CvF WACV Best Paper Award. I received several reviewer awards (2016 - J. of Image and Vision Computing, 2017 - J. of Pattern Recognition, 2019 - CVPR) for my community work. 
 
-I founded in 2012 together with [Matej Kristan](https://www.vicos.si/people/matej_kristan/) the [VOT challenges and workshop series](https://www.votchallenge.net).
+I initiated in 2012 together with [Matej Kristan](https://www.vicos.si/people/matej_kristan/) the [VOT challenges and workshop series](https://www.votchallenge.net).
