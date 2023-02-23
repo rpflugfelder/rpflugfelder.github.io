@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research - Dynamic Perception and Understanding
+title: Research on Dynamic Perception and Understanding
 ---
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
