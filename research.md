@@ -1,17 +1,14 @@
 ---
 layout: page
-title: Research
+title: Research: Dynamic Perception and Understanding
 ---
-
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 
-# Dynamic Perception and Understanding
-
 My scientific interest lies in visual motion analysis and tracking and in the importance of motion perception in object recognition and scene understanding. I currently focus in my research on the problem of fragmented and dynamic occlusion in machine and human vision.
 
-## Fragmented and Dynamic Occlusion
+# Fragmented and Dynamic Occlusion
 
 Please move your mouse pointer (or finger) over the image and click the left mouse button (or touch your display) to start the animation and to perceive motion.
 
@@ -30,7 +27,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>Motion makes a camouflaged person in thermal images visible.</figcaption>
 </figure>
 
-## Object Detection
+# Object Detection
 
 <figure>
   <img src="/assets/images/car.png" height="240" width="320" alt="Car Image" data-alt="/assets/images/car.gif">
@@ -42,7 +39,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>Vehicles are reliably detected in satellite images by using motion (<a href="https://arxiv.org/abs/2204.06828">arXiv'22</a>, <a href="https://data.vicos.si/cvww20/05.pdf"> CVWW'20</a>).</figcaption>
 </figure>
 
-## Simultaneous Localisation and Tracking (SLAT), Camera Calibration
+# Simultaneous Localisation and Tracking (SLAT), Camera Calibration
 
 <figure>
   <img src="/assets/images/socp.png" height="252" width="320" alt="Socp Image" data-alt="/assets/images/socp.gif">
@@ -65,7 +62,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 </figure>
 
 
-## Further Examples
+# Further Examples
 
 <figure>
   <img src="/assets/images/heeger.png" height="240" width="320" alt="3D Image" data-alt="/assets/images/heeger.gif">
@@ -76,16 +73,14 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 
 ***
 
-Other research [work](research.md) in other areas of vision.
-
-***
-
 <figure>
   <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Under_construction_icon-yellow.svg/291px-Under_construction_icon-yellow.svg.png" alt="" width="69" height="57" />
   <figcaption>My research profile is under construction.</figcaption>
 </figure>
 
 <!--
+
+Other research [work](research.md) in other areas of vision.
 
 <h5>Benchmarking Tracking</h5>
 <img class="alignnone size-full wp-image-6894" src="https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/logo_website.png" alt="" width="127" height="61" />      <img class="alignnone size-medium wp-image-6895" src="https://cvl.tuwien.ac.at/wp-content/uploads/2015/12/videonet_title-300x78.png" alt="" width="300" height="78" />
