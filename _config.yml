@@ -3,8 +3,7 @@ author: "Roman Pflugfelder"
 description: "<a href=\"https://vision.in.tum.de/members/pfl\">TUM</a> &nbsp;
 <a href=\"https://mic.net.technion.ac.il/team\">Technion</a> &nbsp;
 <a href=\"https://cvl.tuwien.ac.at/staff/roman-pflugfelder\">TU Wien</a> &nbsp;
-<a href=\"https://www.ait.ac.at/ueber-das-ait/researcher-profiles?tx_aitprofile_pi1%5Bname%5D=Pflugfelder%20Roman&cHash=26274569b0cbd5c6f5bfec8904e35664\">AIT</a> &nbsp;
-<a href=\"/disclaimer.md\">Disclaimer</a>"
+<a href=\"https://www.ait.ac.at/ueber-das-ait/researcher-profiles?tx_aitprofile_pi1%5Bname%5D=Pflugfelder%20Roman&cHash=26274569b0cbd5c6f5bfec8904e35664\">AIT</a>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,9 +22,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {title: Research, file: "research.md"}
   - {title: Publications, file: "publications.md"}
+  - {title: Students, file: "students.md"}
   - {title: Community, file: "community.md"}
   - {title: Talks, file: "talks.md"}
-  - {title: Students, file: "students.md"}
+  - {title: Disclaimer, file: "disclaimer.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:roman.pflugfelder@tum.de"}
