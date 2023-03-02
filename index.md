@@ -14,6 +14,6 @@ I enjoy to build with my research bridges to applications in the field of video 
 
 I graduated under supervision of [Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/) with a PhD in Telematics at TU Graz. Before, I received my Diploma in Informatics from TU Wien and with a [Kurt Goedel stipend](https://kgs.logic.at) from the Queensland University of Technology, Australia under supervision of Horst Bischof, [Brian Lovell](https://staff.itee.uq.edu.au/lovell/) and [Kurt Kubik](https://itee.uq.edu.au/profile/1961/kurt-kubik).
 
-I was awarded for my scientific contributions in 2008 with a Viennese [WWTF](https://www.wwtf.at/index.php?lang=EN) Career Grant and in 2014 with the IEEE/CvF WACV Best Paper Award. I received several reviewer awards (2016 - J. of Image and Vision Computing, 2017 - J. of Pattern Recognition, 2019 - CVPR) for my community work. I was awarded 2022 a EU Marie Skłodowska-Curie Fellowship.
+I was awarded 2008 with a Viennese [WWTF](https://www.wwtf.at/index.php?lang=EN) Career Grant and 2014 with a IEEE/CvF WACV Best Paper Prize. I received for my community work several reviewer awards (2016 - J. of Image and Vision Computing, 2017 - J. of Pattern Recognition, 2019 - CVPR). I was awarded 2022 a EU Marie Skłodowska-Curie Fellowship.
 
 I initiated in 2012 together with [Matej Kristan](https://www.vicos.si/people/matej_kristan/) the [VOT challenges and workshop series](https://www.votchallenge.net).
