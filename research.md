@@ -79,6 +79,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
   <figcaption>My research profile is under construction.</figcaption>
 </figure>
 
+<!--
 ***
 
 {% if page.comments %}
@@ -104,7 +105,7 @@ Please move your mouse pointer (or finger) over the image and click the left mou
 {% endif %}
 
 
-<!--
+
 
 Other research [work](research.md) in other areas of vision.
 
