@@ -21,7 +21,7 @@ You are looking for a [topic](thesis.html) and you are interested? Then, please 
 * Marian Loser, TUM, Master's thesis on _Video Deocclusion_
 * Ada Fok, TUM, Guided Research on _Vehicle Detection in a Sequence of Satellite Images_
 * Ishan Bhattacharya, TUM, Guided Research on _Motion Analysis under Fragmented Occlusion_
-* Vy Hong, Bachelor's thesis on _Computing Motion with Differential Programming_
+* Vy Hong, Bachelor's thesis on _Computing Motion under Occlusion with Differential Programming_
 * Stephan Breimair, Master's thesis on _On Learning Video Deocclusion_
 
 ### Candidates for whom I was Opponent
