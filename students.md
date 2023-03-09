@@ -18,7 +18,8 @@ You are looking for a [topic](thesis.html) and you are interested? Then, please 
 ***
 
 ### My Current Students
-* Marian Loser, TUM, Master's thesis on _Video Deocclusion_
+* Marian Loser, TUM, Master's thesis on _A New Motion Analysis Algorithm for Reconstructing Fragmentally Occluded and
+Moving Objects in Image Sequences_
 * Ada Fok, TUM, Guided Research on _Vehicle Detection in a Sequence of Satellite Images_
 * Ishan Bhattacharya, TUM, Guided Research on _Motion Analysis under Fragmented Occlusion_
 * Vy Hong, Bachelor's thesis on _Computing Motion under Occlusion with Differential Programming_
