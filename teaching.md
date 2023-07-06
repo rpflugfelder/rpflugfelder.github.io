@@ -1,1 +1,6 @@
+---
+title: "Teaching"
+layout: page
+---
+
 
