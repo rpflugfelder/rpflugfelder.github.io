@@ -18,18 +18,19 @@ You are looking for a [topic](thesis.html) and you are interested? Then, please 
 ***
 
 ### My Current Students
-* Marian Loser, TUM, Master's thesis on _A New Motion Analysis Algorithm for Reconstructing Fragmentally Occluded and
-Moving Objects in Image Sequences_
-* Ada Fok, TUM, Guided Research on _Vehicle Detection in a Sequence of Satellite Images_
 * Ishan Bhattacharya, TUM, Guided Research on _Motion Analysis under Fragmented Occlusion_
-* Vy Hong, Bachelor's thesis on _Computing Motion under Occlusion with Differential Programming_
-* Stephan Breimair, Master's thesis on _On Learning Video Deocclusion_
+* Nico Herrman, TUM, Master's thesis on _Dominant Motion_
+* Stephan Breimair, TUM, Master's thesis on _On Learning Video Deocclusion_
 
 ### Candidates for whom I was Opponent
 * [Song Yan](https://scholar.google.fi/citations?user=nmLU3wwAAAAJ&hl=en), Vision and Depth Based Computerized Anthropometry and Object Tracking, [Doctoral Thesis](https://trepo.tuni.fi/bitstream/handle/10024/142552/978-952-03-2591-6.pdf) Opponent in his [Doctoral Defense](https://www.tuni.fi/en/news/song-yan-ai-computer-vision-helps-estimate-body-shape-and-track-moving-objects) at [Tampere University](https://www.tuni.fi/en/joni-kamarainen), Nov, 2022
 * [Gustav Häger](https://www.linkedin.com/in/gustav-häger-25a22941/?originalSubdomain=se), Learning Visual Perception for Autonomous Systems, [Doctoral Thesis](https://www.diva-portal.org/smash/get/diva2:1545918/FULLTEXT02.pdf), Opponent in his [Doctoral Defense](https://wasp-sweden.org/event/phd-defense-learning-visual-perception-for-autonomous-systems) at [Linköping University](https://liu.se/en/employee/micfe03), June, 2021
 
 ### My Past Students
+* Vy Hong, Computing Motion under Occlusion with Differential Programming, Bachelor's thesis, 2023
+*  Marian Loser, A New Motion Analysis Algorithm for Reconstructing Fragmentally Occluded and
+Moving Objects in Image Sequences, Master's thesis, 2023
+* Ada Fok, Vehicle Detection in a Sequence of Satellite Images, Guided Research Project, 2022
 * [Jonas Auer](https://www.linkedin.com/in/auer), Robust Object Localisation under Fragmented Occlusion, [Master's thesis](https://repositum.tuwien.at/bitstream/20.500.12708/19637/1/Auer%20Jonas%20-%202022%20-%20Robust%20Object%20Localization%20under%20Fragmented%20Occlusion.pdf), 2022 
 * Èric Quintana Aguasca, Tracking by Detection Using Yolo and a Kalman Filter, [Bachelor's thesis](https://upcommons.upc.edu/bitstream/handle/2117/357892/Final_Thesis_TrackingByDetection_Quintana_Aguasca.pdf?sequence=2&isAllowed=y), 2021 - Erasmus cooperation with [Xavier Giro](https://imatge.upc.edu/web/people/xavier-giro), UPC Barcelona
 * [Caroline Magg](https://www.linkedin.com/in/caroline-magg-7288ba210/), Deep Image Prior for Microscopy Images, [Praktika](https://cvl.tuwien.ac.at/wp-content/uploads/2021/06/DIP_Project_CarolineMagg_red.pdf), 2021
