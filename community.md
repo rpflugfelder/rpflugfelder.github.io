@@ -3,6 +3,7 @@ layout: page
 title: I am serving 2023 as
 ---
 
+* area chair of [CVPR](https://cvpr2023.thecvf.com/Conferences/2024)
 * reviewer of [ICLR](https://iclr.cc)
 * reviewer of [NeurIPS](https://neurips.cc)
 * member of the [AVSS steering committee](http://www.avss2023.org)
