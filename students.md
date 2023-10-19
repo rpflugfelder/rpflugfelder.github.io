@@ -19,7 +19,7 @@ You are looking for a [topic](thesis.html) and you are interested? Then, please 
 
 ### My Current Students
 * Ishan Bhattacharya, TUM, Guided Research on _Motion Analysis under Fragmented Occlusion_
-* Nico Herrman, TUM, Master's thesis on _Dominant Motion_
+* Nico Hermann, TUM, Master's thesis on _Dominant Motion_
 * Stephan Breimair, TUM, Master's thesis on _On Learning Video Deocclusion_
 
 ### Candidates for whom I was Opponent
