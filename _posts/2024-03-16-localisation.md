@@ -23,5 +23,4 @@ The thesis builds on [previous work](https://doi.org/10.1109/AVSS52988.2021.9663
 * Interest in machine learning, maths, statistics
 
 # Workflow
-## TUM
 Detailed information can be found [here](https://www.cit.tum.de/cit/studium/studierende/abschlussarbeit-abschluss/).
