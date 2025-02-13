@@ -1,9 +1,12 @@
 ---
 layout: page
-title: I am serving 2024 as
+title: I am serving 2025 as
 ---
 
-* area chair of [CVPR](https://cvpr2023.thecvf.com/Conferences/2024)
+* area chair of [CVPR](https://cvpr.thecvf.com/Conferences/2025)
+
+I served 2024 as
+* area chair of [CVPR](https://cvpr.thecvf.com/Conferences/2024)
 * reviewer of [ICLR](https://iclr.cc)
 * reviewer of [ICML](https://icml.cc)
 
