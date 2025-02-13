@@ -3,6 +3,7 @@ layout: page
 title: "Invited Talks & Lectures"
 ---
 
+* Towards Reconstructing Objects behind Fragmented Occlusion using Video, Norce, November, 2024
 * Motion Computation under Fragmented Occlusion, TU N&uuml;rnberg, December, 2023
 * [Fragmented Occlusion in Computer Vision](https://www.youtube.com/watch?v=1d_O443FdlA), &Ouml;FAI, Vienna, September, 2022
 * [The importance of motion perception in visual recognition](https://www.iarai.ac.at/events/the-importance-of-motion-perception-in-visual-recognition/), IARAI, Vienna, August, 2021
