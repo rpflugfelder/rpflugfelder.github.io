@@ -4,7 +4,7 @@ title: I am serving 2025 as
 ---
 
 * area chair of [CVPR](https://cvpr.thecvf.com/Conferences/2025)
-* member of the [AVSS steering committee](http://www.avss2025.org)
+* member of the [AVSS steering committee](https://sites.google.com/view/avss2025-tw)
 
 I served 2024 as
 * area chair of [CVPR](https://cvpr.thecvf.com/Conferences/2024)
