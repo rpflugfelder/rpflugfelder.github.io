@@ -4,12 +4,14 @@ title: I am serving 2025 as
 ---
 
 * area chair of [CVPR](https://cvpr.thecvf.com/Conferences/2025)
+* member of the [AVSS steering committee](http://www.avss2025.org)
 
 I served 2024 as
 * area chair of [CVPR](https://cvpr.thecvf.com/Conferences/2024)
 * reviewer of [ICLR](https://iclr.cc)
 * reviewer of [ICML](https://icml.cc)
 * reviewer of [WACV](https://wacv2024.thecvf.com)
+* member of the [AVSS steering committee](http://www.avss2024.org)
 
 I served 2023 as
 * reviewer of [ICLR](https://iclr.cc)
