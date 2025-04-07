@@ -1,6 +1,6 @@
 ---
 title: "Robust Object Localisation under Fragmented Occlusion"
-categories: thesis
+categories:
 layout: post
 ---
 
