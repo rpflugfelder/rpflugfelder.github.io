@@ -19,13 +19,14 @@ You are looking for a [topic](thesis.html) and you are interested? Then, please 
 
 ### My Current Students
 * Maanav Khungar, Master's thesis
-* Utku Uyar, Master's thesis
+* Radu Bourceanu, Master's thesis
 
 ### Candidates for whom I was Opponent
 * [Song Yan](https://scholar.google.fi/citations?user=nmLU3wwAAAAJ&hl=en), Vision and Depth Based Computerized Anthropometry and Object Tracking, [Doctoral Thesis](https://trepo.tuni.fi/bitstream/handle/10024/142552/978-952-03-2591-6.pdf) Opponent in his [Doctoral Defense](https://www.tuni.fi/en/news/song-yan-ai-computer-vision-helps-estimate-body-shape-and-track-moving-objects) at [Tampere University](https://www.tuni.fi/en/joni-kamarainen), Nov, 2022
 * [Gustav Häger](https://www.linkedin.com/in/gustav-häger-25a22941/?originalSubdomain=se), Learning Visual Perception for Autonomous Systems, [Doctoral Thesis](https://www.diva-portal.org/smash/get/diva2:1545918/FULLTEXT02.pdf), Opponent in his [Doctoral Defense](https://wasp-sweden.org/event/phd-defense-learning-visual-perception-for-autonomous-systems) at [Linköping University](https://liu.se/en/employee/micfe03), June, 2021
 
 ### My Past Students
+* Utku Uyar, TUM, Master's thesis, 2026
 * Nico Hermann, TUM, Master's thesis, 2025
 * Maanav Khungar, Guided Research Project, 2024
 * Linus Schwarz, Bachelor's Thesis, 2024
