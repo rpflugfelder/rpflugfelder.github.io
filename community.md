@@ -1,8 +1,11 @@
 ---
 layout: page
-title: I am serving 2025 as
+title: I am serving 2026 as
 ---
 
+* member of the [AVSS 2026 steering committee](https://www.avss2026.org)
+
+I served 2025 as
 * area chair of [CVPR](https://cvpr.thecvf.com/Conferences/2025)
 * member of the [AVSS 2025 steering committee](https://sites.google.com/view/avss2025-tw)
 
