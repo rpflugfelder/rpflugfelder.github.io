@@ -4,6 +4,10 @@ title: I am serving 2026 as
 ---
 
 * member of the [AVSS 2026 steering committee](https://www.avss2026.org)
+* reviewer of [WACV](https://wacv.thecvf.com)
+* reviewer of [NeurIPS](https://neurips.cc)
+* reviewer of [AVSS](https://www.avss2026.org)
+* reviewer of [CVPR](https://cvpr.thecvf.com)
 
 I served 2025 as
 * area chair of [CVPR](https://cvpr.thecvf.com/Conferences/2025)
